@@ -1,0 +1,650 @@
+cuda memory allocated: 28044288
+n_trainable_params: 6964994, n_nontrainable_params: 45600
+> training arguments:
+>>> model_name: aoa
+>>> dataset: thalia
+>>> optimizer: <class 'torch.optim.sgd.SGD'>
+>>> lrshrink: 5
+>>> decay: 0.99
+>>> minlr: 1e-05
+>>> initializer: <function xavier_uniform_ at 0x7f650f7c48b0>
+>>> learning_rate: 0.8
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 15
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> max_seq_len: 240
+>>> polarities_dim: 2
+>>> hops: 3
+>>> device: cuda:0
+>>> seed: 123
+>>> valset_ratio: 0.2
+>>> sround: 0
+>>> local_context_focus: cdm
+>>> SRD: 3
+>>> model_class: <class 'models.aoa.AOA'>
+>>> dataset_file: {'train': './datasets/omap/train_thalia.xlsx', 'test': './datasets/omap/test_thalia.xlsx', 'val': './datasets/omap/val_thalia.xlsx'}
+>>> inputs_cols: ['text_raw_indices1', 'aspect_indices1', 'text_raw_indices2', 'aspect_indices2']
+>>> optimizer_rec: sgd
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 0.7974, acc: 0.5031
+loss: 0.7673, acc: 0.4859
+> val_acc: 0.2732, val_f1: 0.1246
+> report: {'precision': 0.06643952299829642, 'recall': 1.0, 'f1-score': 0.12460063897763578, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.1246
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 0.6579, acc: 0.6198
+loss: 0.6530, acc: 0.6133
+> val_acc: 0.8793, val_f1: 0.3453
+> report: {'precision': 0.24, 'recall': 0.6153846153846154, 'f1-score': 0.34532374100719426, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.3453
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 0.4738, acc: 0.8594
+loss: 0.6539, acc: 0.7083
+loss: 0.6315, acc: 0.6989
+> val_acc: 0.7626, val_f1: 0.2925
+> report: {'precision': 0.17289719626168223, 'recall': 0.9487179487179487, 'f1-score': 0.2924901185770751, 'support': 39}
+Shrinking lr by : 5. New lr = 0.16
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 4
+loss: 0.3670, acc: 0.8672
+loss: 0.3376, acc: 0.8872
+> val_acc: 0.9005, val_f1: 0.4755
+> report: {'precision': 0.3269230769230769, 'recall': 0.8717948717948718, 'f1-score': 0.4755244755244756, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.4755
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 5
+loss: 0.2900, acc: 0.8750
+loss: 0.3110, acc: 0.8839
+loss: 0.2631, acc: 0.9111
+> val_acc: 0.8687, val_f1: 0.4407
+> report: {'precision': 0.2826086956521739, 'recall': 1.0, 'f1-score': 0.4406779661016949, 'support': 39}
+Shrinking lr by : 5. New lr = 0.032
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 6
+loss: 0.2170, acc: 0.9500
+loss: 0.2186, acc: 0.9437
+> val_acc: 0.8886, val_f1: 0.4815
+> report: {'precision': 0.3170731707317073, 'recall': 1.0, 'f1-score': 0.48148148148148145, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.4815
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 7
+loss: 0.2217, acc: 0.9531
+loss: 0.2065, acc: 0.9590
+> val_acc: 0.8952, val_f1: 0.4968
+> report: {'precision': 0.3305084745762712, 'recall': 1.0, 'f1-score': 0.4968152866242038, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.4968
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 8
+loss: 0.1709, acc: 0.9688
+loss: 0.2013, acc: 0.9453
+loss: 0.1911, acc: 0.9489
+> val_acc: 0.9098, val_f1: 0.5342
+> report: {'precision': 0.3644859813084112, 'recall': 1.0, 'f1-score': 0.5342465753424658, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.5342
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 9
+loss: 0.1827, acc: 0.9570
+loss: 0.1850, acc: 0.9549
+> val_acc: 0.9138, val_f1: 0.5455
+> report: {'precision': 0.375, 'recall': 1.0, 'f1-score': 0.5454545454545454, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.5455
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 10
+loss: 0.1756, acc: 0.9688
+loss: 0.1739, acc: 0.9554
+loss: 0.1691, acc: 0.9602
+> val_acc: 0.9125, val_f1: 0.5417
+> report: {'precision': 0.37142857142857144, 'recall': 1.0, 'f1-score': 0.5416666666666666, 'support': 39}
+Shrinking lr by : 5. New lr = 0.0064
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 11
+loss: 0.1634, acc: 0.9500
+loss: 0.1607, acc: 0.9563
+> val_acc: 0.9204, val_f1: 0.5652
+> report: {'precision': 0.3939393939393939, 'recall': 1.0, 'f1-score': 0.5652173913043478, 'support': 39}
+>> saved: state_dict/thalia/0_thalia_val_f1_0.5652
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 12
+loss: 0.1805, acc: 0.9531
+loss: 0.1651, acc: 0.9590
+> val_acc: 0.9191, val_f1: 0.5612
+> report: {'precision': 0.39, 'recall': 1.0, 'f1-score': 0.5611510791366906, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00128
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 13
+loss: 0.1729, acc: 0.9531
+loss: 0.1697, acc: 0.9557
+loss: 0.1666, acc: 0.9588
+> val_acc: 0.9191, val_f1: 0.5612
+> report: {'precision': 0.39, 'recall': 1.0, 'f1-score': 0.5611510791366906, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00025600000000000004
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 14
+loss: 0.1997, acc: 0.9336
+loss: 0.1811, acc: 0.9410
+> val_acc: 0.9191, val_f1: 0.5612
+> report: {'precision': 0.39, 'recall': 1.0, 'f1-score': 0.5611510791366906, 'support': 39}
+Shrinking lr by : 5. New lr = 5.120000000000001e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 15
+loss: 0.1606, acc: 0.9609
+loss: 0.1904, acc: 0.9464
+loss: 0.1754, acc: 0.9562
+> val_acc: 0.9191, val_f1: 0.5612
+> report: {'precision': 0.39, 'recall': 1.0, 'f1-score': 0.5611510791366906, 'support': 39}
+Shrinking lr by : 5. New lr = 1.0240000000000002e-05
+>> test_acc: 0.8636, test_f1: 0.6160
+> report: {'precision': 0.21052631578947367, 'recall': 0.5714285714285714, 'f1-score': 0.3076923076923077, 'support': 7}
+cuda memory allocated: 28044288
+n_trainable_params: 6964994, n_nontrainable_params: 45600
+> training arguments:
+>>> model_name: aoa
+>>> dataset: thalia
+>>> optimizer: <class 'torch.optim.sgd.SGD'>
+>>> lrshrink: 5
+>>> decay: 0.99
+>>> minlr: 1e-05
+>>> initializer: <function xavier_uniform_ at 0x7f6ec061d8b0>
+>>> learning_rate: 0.8
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 15
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> max_seq_len: 240
+>>> polarities_dim: 2
+>>> hops: 3
+>>> device: cuda:0
+>>> seed: 234
+>>> valset_ratio: 0.2
+>>> sround: 1
+>>> local_context_focus: cdm
+>>> SRD: 3
+>>> model_class: <class 'models.aoa.AOA'>
+>>> dataset_file: {'train': './datasets/omap/train_thalia.xlsx', 'test': './datasets/omap/test_thalia.xlsx', 'val': './datasets/omap/val_thalia.xlsx'}
+>>> inputs_cols: ['text_raw_indices1', 'aspect_indices1', 'text_raw_indices2', 'aspect_indices2']
+>>> optimizer_rec: sgd
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 0.8246, acc: 0.5437
+loss: 0.7693, acc: 0.5484
+> val_acc: 0.0769, val_f1: 0.1008
+> report: {'precision': 0.053061224489795916, 'recall': 1.0, 'f1-score': 0.10077519379844961, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.1008
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 0.6467, acc: 0.6146
+loss: 0.7109, acc: 0.5703
+> val_acc: 0.9483, val_f1: 0.0000
+> report: {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 39}
+Shrinking lr by : 5. New lr = 0.16
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 0.9140, acc: 0.4844
+loss: 0.6800, acc: 0.5911
+loss: 0.6113, acc: 0.6989
+> val_acc: 0.7599, val_f1: 0.2672
+> report: {'precision': 0.15865384615384615, 'recall': 0.8461538461538461, 'f1-score': 0.2672064777327935, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.2672
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 4
+loss: 0.4996, acc: 0.8203
+loss: 0.5050, acc: 0.7882
+> val_acc: 0.7347, val_f1: 0.2647
+> report: {'precision': 0.15450643776824036, 'recall': 0.9230769230769231, 'f1-score': 0.2647058823529412, 'support': 39}
+Shrinking lr by : 5. New lr = 0.032
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 5
+loss: 0.4178, acc: 0.8359
+loss: 0.4243, acc: 0.8348
+loss: 0.4253, acc: 0.8249
+> val_acc: 0.8117, val_f1: 0.3302
+> report: {'precision': 0.2023121387283237, 'recall': 0.8974358974358975, 'f1-score': 0.33018867924528306, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.3302
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 6
+loss: 0.4137, acc: 0.8219
+loss: 0.4099, acc: 0.8344
+> val_acc: 0.7825, val_f1: 0.2991
+> report: {'precision': 0.1794871794871795, 'recall': 0.8974358974358975, 'f1-score': 0.2991452991452992, 'support': 39}
+Shrinking lr by : 5. New lr = 0.0064
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 7
+loss: 0.4502, acc: 0.7604
+loss: 0.4093, acc: 0.8047
+> val_acc: 0.8130, val_f1: 0.3318
+> report: {'precision': 0.20348837209302326, 'recall': 0.8974358974358975, 'f1-score': 0.33175355450236965, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.3318
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 8
+loss: 0.3725, acc: 0.8594
+loss: 0.3843, acc: 0.8620
+loss: 0.3744, acc: 0.8636
+> val_acc: 0.8210, val_f1: 0.3415
+> report: {'precision': 0.21084337349397592, 'recall': 0.8974358974358975, 'f1-score': 0.3414634146341463, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.3415
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 9
+loss: 0.3406, acc: 0.8672
+loss: 0.3462, acc: 0.8785
+> val_acc: 0.8263, val_f1: 0.3483
+> report: {'precision': 0.21604938271604937, 'recall': 0.8974358974358975, 'f1-score': 0.34825870646766166, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.3483
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 10
+loss: 0.3663, acc: 0.8750
+loss: 0.3686, acc: 0.8594
+loss: 0.3646, acc: 0.8700
+> val_acc: 0.8342, val_f1: 0.3590
+> report: {'precision': 0.22435897435897437, 'recall': 0.8974358974358975, 'f1-score': 0.358974358974359, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.359
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 11
+loss: 0.3861, acc: 0.8438
+loss: 0.3782, acc: 0.8578
+> val_acc: 0.8462, val_f1: 0.3763
+> report: {'precision': 0.23809523809523808, 'recall': 0.8974358974358975, 'f1-score': 0.3763440860215054, 'support': 39}
+>> saved: state_dict/thalia/1_thalia_val_f1_0.3763
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 12
+loss: 0.3725, acc: 0.8646
+loss: 0.3582, acc: 0.8887
+> val_acc: 0.8369, val_f1: 0.3627
+> report: {'precision': 0.22727272727272727, 'recall': 0.8974358974358975, 'f1-score': 0.3626943005181347, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00128
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 13
+loss: 0.3910, acc: 0.8125
+loss: 0.3475, acc: 0.8646
+loss: 0.3445, acc: 0.8778
+> val_acc: 0.8355, val_f1: 0.3608
+> report: {'precision': 0.22580645161290322, 'recall': 0.8974358974358975, 'f1-score': 0.36082474226804123, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00025600000000000004
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 14
+loss: 0.3705, acc: 0.8203
+loss: 0.3542, acc: 0.8559
+> val_acc: 0.8355, val_f1: 0.3608
+> report: {'precision': 0.22580645161290322, 'recall': 0.8974358974358975, 'f1-score': 0.36082474226804123, 'support': 39}
+Shrinking lr by : 5. New lr = 5.120000000000001e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 15
+loss: 0.4056, acc: 0.8281
+loss: 0.3740, acc: 0.8527
+loss: 0.3545, acc: 0.8727
+> val_acc: 0.8355, val_f1: 0.3608
+> report: {'precision': 0.22580645161290322, 'recall': 0.8974358974358975, 'f1-score': 0.36082474226804123, 'support': 39}
+Shrinking lr by : 5. New lr = 1.0240000000000002e-05
+>> test_acc: 0.7955, test_f1: 0.5066
+> report: {'precision': 0.08333333333333333, 'recall': 0.2857142857142857, 'f1-score': 0.12903225806451613, 'support': 7}
+cuda memory allocated: 28044288
+n_trainable_params: 6964994, n_nontrainable_params: 45600
+> training arguments:
+>>> model_name: aoa
+>>> dataset: thalia
+>>> optimizer: <class 'torch.optim.sgd.SGD'>
+>>> lrshrink: 5
+>>> decay: 0.99
+>>> minlr: 1e-05
+>>> initializer: <function xavier_uniform_ at 0x7f980e3918b0>
+>>> learning_rate: 0.8
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 15
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> max_seq_len: 240
+>>> polarities_dim: 2
+>>> hops: 3
+>>> device: cuda:0
+>>> seed: 456
+>>> valset_ratio: 0.2
+>>> sround: 2
+>>> local_context_focus: cdm
+>>> SRD: 3
+>>> model_class: <class 'models.aoa.AOA'>
+>>> dataset_file: {'train': './datasets/omap/train_thalia.xlsx', 'test': './datasets/omap/test_thalia.xlsx', 'val': './datasets/omap/val_thalia.xlsx'}
+>>> inputs_cols: ['text_raw_indices1', 'aspect_indices1', 'text_raw_indices2', 'aspect_indices2']
+>>> optimizer_rec: sgd
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 0.9225, acc: 0.5094
+loss: 0.8042, acc: 0.5437
+> val_acc: 0.3674, val_f1: 0.1374
+> report: {'precision': 0.07392996108949416, 'recall': 0.9743589743589743, 'f1-score': 0.13743218806509944, 'support': 39}
+>> saved: state_dict/thalia/2_thalia_val_f1_0.1374
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 0.6218, acc: 0.7031
+loss: 0.6623, acc: 0.6270
+> val_acc: 0.6021, val_f1: 0.2021
+> report: {'precision': 0.11275964391691394, 'recall': 0.9743589743589743, 'f1-score': 0.20212765957446807, 'support': 39}
+>> saved: state_dict/thalia/2_thalia_val_f1_0.2021
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 0.6147, acc: 0.6562
+loss: 0.6302, acc: 0.6146
+loss: 0.6215, acc: 0.5980
+> val_acc: 0.2122, val_f1: 0.1161
+> report: {'precision': 0.061611374407582936, 'recall': 1.0, 'f1-score': 0.11607142857142856, 'support': 39}
+Shrinking lr by : 5. New lr = 0.16
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 4
+loss: 0.5424, acc: 0.7305
+loss: 0.4655, acc: 0.7986
+> val_acc: 0.8236, val_f1: 0.3512
+> report: {'precision': 0.21686746987951808, 'recall': 0.9230769230769231, 'f1-score': 0.351219512195122, 'support': 39}
+>> saved: state_dict/thalia/2_thalia_val_f1_0.3512
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 5
+loss: 0.3362, acc: 0.8828
+loss: 0.3194, acc: 0.8906
+loss: 0.3047, acc: 0.8952
+> val_acc: 0.9072, val_f1: 0.5070
+> report: {'precision': 0.34951456310679613, 'recall': 0.9230769230769231, 'f1-score': 0.5070422535211268, 'support': 39}
+>> saved: state_dict/thalia/2_thalia_val_f1_0.507
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 6
+loss: 0.2762, acc: 0.9187
+loss: 0.2590, acc: 0.9266
+> val_acc: 0.9496, val_f1: 0.6481
+> report: {'precision': 0.5072463768115942, 'recall': 0.8974358974358975, 'f1-score': 0.6481481481481483, 'support': 39}
+>> saved: state_dict/thalia/2_thalia_val_f1_0.6481
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 7
+loss: 0.2051, acc: 0.9323
+loss: 0.1877, acc: 0.9453
+> val_acc: 0.8767, val_f1: 0.4561
+> report: {'precision': 0.29545454545454547, 'recall': 1.0, 'f1-score': 0.456140350877193, 'support': 39}
+Shrinking lr by : 5. New lr = 0.032
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 8
+loss: 0.2098, acc: 0.8906
+loss: 0.1599, acc: 0.9427
+loss: 0.1574, acc: 0.9503
+> val_acc: 0.9297, val_f1: 0.5954
+> report: {'precision': 0.42391304347826086, 'recall': 1.0, 'f1-score': 0.5954198473282443, 'support': 39}
+Shrinking lr by : 5. New lr = 0.0064
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 9
+loss: 0.1298, acc: 0.9805
+loss: 0.1451, acc: 0.9670
+> val_acc: 0.9324, val_f1: 0.6047
+> report: {'precision': 0.43333333333333335, 'recall': 1.0, 'f1-score': 0.6046511627906976, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00128
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 10
+loss: 0.1387, acc: 0.9531
+loss: 0.1363, acc: 0.9643
+loss: 0.1457, acc: 0.9655
+> val_acc: 0.9324, val_f1: 0.6047
+> report: {'precision': 0.43333333333333335, 'recall': 1.0, 'f1-score': 0.6046511627906976, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00025600000000000004
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 11
+loss: 0.1453, acc: 0.9625
+loss: 0.1352, acc: 0.9719
+> val_acc: 0.9324, val_f1: 0.6047
+> report: {'precision': 0.43333333333333335, 'recall': 1.0, 'f1-score': 0.6046511627906976, 'support': 39}
+Shrinking lr by : 5. New lr = 5.120000000000001e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 12
+loss: 0.1162, acc: 0.9896
+loss: 0.1399, acc: 0.9746
+> val_acc: 0.9324, val_f1: 0.6047
+> report: {'precision': 0.43333333333333335, 'recall': 1.0, 'f1-score': 0.6046511627906976, 'support': 39}
+Shrinking lr by : 5. New lr = 1.0240000000000002e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 13
+loss: 0.1473, acc: 0.9531
+loss: 0.1390, acc: 0.9688
+loss: 0.1389, acc: 0.9716
+> val_acc: 0.9324, val_f1: 0.6047
+> report: {'precision': 0.43333333333333335, 'recall': 1.0, 'f1-score': 0.6046511627906976, 'support': 39}
+Shrinking lr by : 5. New lr = 2.0480000000000006e-06
+>> test_acc: 0.8712, test_f1: 0.5603
+> report: {'precision': 0.14285714285714285, 'recall': 0.2857142857142857, 'f1-score': 0.19047619047619047, 'support': 7}
+cuda memory allocated: 28044288
+n_trainable_params: 6964994, n_nontrainable_params: 45600
+> training arguments:
+>>> model_name: aoa
+>>> dataset: thalia
+>>> optimizer: <class 'torch.optim.sgd.SGD'>
+>>> lrshrink: 5
+>>> decay: 0.99
+>>> minlr: 1e-05
+>>> initializer: <function xavier_uniform_ at 0x7f7ea66d68b0>
+>>> learning_rate: 0.8
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 15
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> max_seq_len: 240
+>>> polarities_dim: 2
+>>> hops: 3
+>>> device: cuda:0
+>>> seed: 5678
+>>> valset_ratio: 0.2
+>>> sround: 3
+>>> local_context_focus: cdm
+>>> SRD: 3
+>>> model_class: <class 'models.aoa.AOA'>
+>>> dataset_file: {'train': './datasets/omap/train_thalia.xlsx', 'test': './datasets/omap/test_thalia.xlsx', 'val': './datasets/omap/val_thalia.xlsx'}
+>>> inputs_cols: ['text_raw_indices1', 'aspect_indices1', 'text_raw_indices2', 'aspect_indices2']
+>>> optimizer_rec: sgd
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 0.7687, acc: 0.5781
+loss: 0.7187, acc: 0.5938
+> val_acc: 0.5968, val_f1: 0.1872
+> report: {'precision': 0.1044776119402985, 'recall': 0.8974358974358975, 'f1-score': 0.18716577540106952, 'support': 39}
+>> saved: state_dict/thalia/3_thalia_val_f1_0.1872
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 0.6178, acc: 0.7031
+loss: 0.6543, acc: 0.6035
+> val_acc: 0.2520, val_f1: 0.1215
+> report: {'precision': 0.06467661691542288, 'recall': 1.0, 'f1-score': 0.12149532710280372, 'support': 39}
+Shrinking lr by : 5. New lr = 0.16
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 0.6892, acc: 0.6094
+loss: 0.5323, acc: 0.7370
+loss: 0.4987, acc: 0.7912
+> val_acc: 0.6671, val_f1: 0.2324
+> report: {'precision': 0.13194444444444445, 'recall': 0.9743589743589743, 'f1-score': 0.23241590214067276, 'support': 39}
+>> saved: state_dict/thalia/3_thalia_val_f1_0.2324
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 4
+loss: 0.4379, acc: 0.8047
+loss: 0.4103, acc: 0.8316
+> val_acc: 0.7865, val_f1: 0.3149
+> report: {'precision': 0.18877551020408162, 'recall': 0.9487179487179487, 'f1-score': 0.31489361702127655, 'support': 39}
+>> saved: state_dict/thalia/3_thalia_val_f1_0.3149
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 5
+loss: 0.2898, acc: 0.8984
+loss: 0.3157, acc: 0.8996
+loss: 0.3034, acc: 0.8979
+> val_acc: 0.8674, val_f1: 0.4186
+> report: {'precision': 0.2706766917293233, 'recall': 0.9230769230769231, 'f1-score': 0.41860465116279066, 'support': 39}
+>> saved: state_dict/thalia/3_thalia_val_f1_0.4186
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 6
+loss: 0.2759, acc: 0.9062
+loss: 0.2613, acc: 0.9125
+> val_acc: 0.9456, val_f1: 0.6306
+> report: {'precision': 0.4861111111111111, 'recall': 0.8974358974358975, 'f1-score': 0.6306306306306306, 'support': 39}
+>> saved: state_dict/thalia/3_thalia_val_f1_0.6306
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 7
+loss: 0.2255, acc: 0.9479
+loss: 0.2093, acc: 0.9512
+> val_acc: 0.8912, val_f1: 0.4875
+> report: {'precision': 0.32231404958677684, 'recall': 1.0, 'f1-score': 0.48749999999999993, 'support': 39}
+Shrinking lr by : 5. New lr = 0.032
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 8
+loss: 0.2053, acc: 0.9375
+loss: 0.1926, acc: 0.9453
+loss: 0.1774, acc: 0.9574
+> val_acc: 0.9284, val_f1: 0.5909
+> report: {'precision': 0.41935483870967744, 'recall': 1.0, 'f1-score': 0.5909090909090909, 'support': 39}
+Shrinking lr by : 5. New lr = 0.0064
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 9
+loss: 0.1650, acc: 0.9492
+loss: 0.1555, acc: 0.9670
+> val_acc: 0.9271, val_f1: 0.5865
+> report: {'precision': 0.4148936170212766, 'recall': 1.0, 'f1-score': 0.5864661654135339, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00128
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 10
+loss: 0.1350, acc: 0.9688
+loss: 0.1461, acc: 0.9688
+loss: 0.1574, acc: 0.9655
+> val_acc: 0.9271, val_f1: 0.5865
+> report: {'precision': 0.4148936170212766, 'recall': 1.0, 'f1-score': 0.5864661654135339, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00025600000000000004
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 11
+loss: 0.1848, acc: 0.9469
+loss: 0.1694, acc: 0.9516
+> val_acc: 0.9271, val_f1: 0.5865
+> report: {'precision': 0.4148936170212766, 'recall': 1.0, 'f1-score': 0.5864661654135339, 'support': 39}
+Shrinking lr by : 5. New lr = 5.120000000000001e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 12
+loss: 0.1838, acc: 0.9479
+loss: 0.1633, acc: 0.9590
+> val_acc: 0.9271, val_f1: 0.5865
+> report: {'precision': 0.4148936170212766, 'recall': 1.0, 'f1-score': 0.5864661654135339, 'support': 39}
+Shrinking lr by : 5. New lr = 1.0240000000000002e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 13
+loss: 0.2006, acc: 0.9375
+loss: 0.1893, acc: 0.9401
+loss: 0.1872, acc: 0.9432
+> val_acc: 0.9271, val_f1: 0.5865
+> report: {'precision': 0.4148936170212766, 'recall': 1.0, 'f1-score': 0.5864661654135339, 'support': 39}
+Shrinking lr by : 5. New lr = 2.0480000000000006e-06
+>> test_acc: 0.8864, test_f1: 0.5747
+> report: {'precision': 0.16666666666666666, 'recall': 0.2857142857142857, 'f1-score': 0.2105263157894737, 'support': 7}
+cuda memory allocated: 28044288
+n_trainable_params: 6964994, n_nontrainable_params: 45600
+> training arguments:
+>>> model_name: aoa
+>>> dataset: thalia
+>>> optimizer: <class 'torch.optim.sgd.SGD'>
+>>> lrshrink: 5
+>>> decay: 0.99
+>>> minlr: 1e-05
+>>> initializer: <function xavier_uniform_ at 0x7f5804e408b0>
+>>> learning_rate: 0.8
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 15
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> max_seq_len: 240
+>>> polarities_dim: 2
+>>> hops: 3
+>>> device: cuda:0
+>>> seed: 6789
+>>> valset_ratio: 0.2
+>>> sround: 4
+>>> local_context_focus: cdm
+>>> SRD: 3
+>>> model_class: <class 'models.aoa.AOA'>
+>>> dataset_file: {'train': './datasets/omap/train_thalia.xlsx', 'test': './datasets/omap/test_thalia.xlsx', 'val': './datasets/omap/val_thalia.xlsx'}
+>>> inputs_cols: ['text_raw_indices1', 'aspect_indices1', 'text_raw_indices2', 'aspect_indices2']
+>>> optimizer_rec: sgd
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 0.8483, acc: 0.5062
+loss: 0.7591, acc: 0.5125
+> val_acc: 0.9178, val_f1: 0.3922
+> report: {'precision': 0.31746031746031744, 'recall': 0.5128205128205128, 'f1-score': 0.392156862745098, 'support': 39}
+>> saved: state_dict/thalia/4_thalia_val_f1_0.3922
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 0.6231, acc: 0.7083
+loss: 0.7174, acc: 0.6270
+> val_acc: 0.0650, val_f1: 0.0996
+> report: {'precision': 0.05241935483870968, 'recall': 1.0, 'f1-score': 0.09961685823754789, 'support': 39}
+Shrinking lr by : 5. New lr = 0.16
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 0.7022, acc: 0.4844
+loss: 0.5924, acc: 0.6510
+loss: 0.5440, acc: 0.7344
+> val_acc: 0.7560, val_f1: 0.2812
+> report: {'precision': 0.16589861751152074, 'recall': 0.9230769230769231, 'f1-score': 0.28125, 'support': 39}
+Shrinking lr by : 5. New lr = 0.032
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 4
+loss: 0.4610, acc: 0.8164
+loss: 0.4277, acc: 0.8507
+> val_acc: 0.7984, val_f1: 0.3214
+> report: {'precision': 0.1945945945945946, 'recall': 0.9230769230769231, 'f1-score': 0.32142857142857145, 'support': 39}
+Shrinking lr by : 5. New lr = 0.0064
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 5
+loss: 0.3986, acc: 0.8906
+loss: 0.4029, acc: 0.8705
+loss: 0.4065, acc: 0.8621
+> val_acc: 0.7971, val_f1: 0.3200
+> report: {'precision': 0.1935483870967742, 'recall': 0.9230769230769231, 'f1-score': 0.31999999999999995, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00128
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 6
+loss: 0.4238, acc: 0.8531
+loss: 0.3995, acc: 0.8766
+> val_acc: 0.7984, val_f1: 0.3214
+> report: {'precision': 0.1945945945945946, 'recall': 0.9230769230769231, 'f1-score': 0.32142857142857145, 'support': 39}
+Shrinking lr by : 5. New lr = 0.00025600000000000004
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 7
+loss: 0.4381, acc: 0.8385
+loss: 0.4295, acc: 0.8535
+> val_acc: 0.7984, val_f1: 0.3214
+> report: {'precision': 0.1945945945945946, 'recall': 0.9230769230769231, 'f1-score': 0.32142857142857145, 'support': 39}
+Shrinking lr by : 5. New lr = 5.120000000000001e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 8
+loss: 0.4283, acc: 0.8125
+loss: 0.4257, acc: 0.8490
+loss: 0.4143, acc: 0.8622
+> val_acc: 0.7984, val_f1: 0.3214
+> report: {'precision': 0.1945945945945946, 'recall': 0.9230769230769231, 'f1-score': 0.32142857142857145, 'support': 39}
+Shrinking lr by : 5. New lr = 1.0240000000000002e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 9
+loss: 0.3990, acc: 0.8867
+loss: 0.4017, acc: 0.8681
+> val_acc: 0.7984, val_f1: 0.3214
+> report: {'precision': 0.1945945945945946, 'recall': 0.9230769230769231, 'f1-score': 0.32142857142857145, 'support': 39}
+Shrinking lr by : 5. New lr = 2.0480000000000006e-06
+>> test_acc: 0.8864, test_f1: 0.5285
+> report: {'precision': 0.1, 'recall': 0.14285714285714285, 'f1-score': 0.11764705882352941, 'support': 7}
