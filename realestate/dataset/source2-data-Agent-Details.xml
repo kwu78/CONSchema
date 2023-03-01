@@ -1,0 +1,902 @@
+<root>
+<tuple>
+    <agent_id>1</agent_id>
+    <agent_name>Janet Simpson</agent_name>
+    <agent_first_name>Janet</agent_first_name>
+    <agent_last_name>Simpson</agent_last_name>
+    <agent_area_code>830</agent_area_code>
+    <agent_phone_number>693-3579</agent_phone_number>
+    <agent_email>jan@century21keiser.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>2</agent_id>
+    <agent_name>Renee Thomas</agent_name>
+    <agent_first_name>Renee</agent_first_name>
+    <agent_last_name>Thomas</agent_last_name>
+    <agent_area_code>830</agent_area_code>
+    <agent_phone_number>598-2553</agent_phone_number>
+    <agent_email>renee@hsbay.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>3</agent_id>
+    <agent_name>Emily Prowell</agent_name>
+    <agent_first_name>Emily</agent_first_name>
+    <agent_last_name>Prowell</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>596-9446</agent_phone_number>
+    <agent_email>eprowell@century21jduncan.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>4</agent_id>
+    <agent_name>Lee Hassman</agent_name>
+    <agent_first_name>Lee</agent_first_name>
+    <agent_last_name>Hassman</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>Leer29@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>5</agent_id>
+    <agent_name>Renee Thomas</agent_name>
+    <agent_first_name>Renee</agent_first_name>
+    <agent_last_name>Thomas</agent_last_name>
+    <agent_area_code>830</agent_area_code>
+    <agent_phone_number>598-2553</agent_phone_number>
+    <agent_email>renee@hsbay.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>6</agent_id>
+    <agent_name>Betty Midyett</agent_name>
+    <agent_first_name>Betty</agent_first_name>
+    <agent_last_name>Midyett</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>BettyC21@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>7</agent_id>
+    <agent_name>Sherron Deaver</agent_name>
+    <agent_first_name>Sherron</agent_first_name>
+    <agent_last_name>Deaver</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>596-9446</agent_phone_number>
+    <agent_email>sdeaver@century21jduncan.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>8</agent_id>
+    <agent_name>SIGRUN BURKE</agent_name>
+    <agent_first_name>SIGRUN</agent_first_name>
+    <agent_last_name>BURKE</agent_last_name>
+    <agent_area_code>713</agent_area_code>
+    <agent_phone_number>621-4953</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>9</agent_id>
+    <agent_name>Cece Hurst</agent_name>
+    <agent_first_name>Cece</agent_first_name>
+    <agent_last_name>Hurst</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>321-5300</agent_phone_number>
+    <agent_email>cece@totalaccess.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>10</agent_id>
+    <agent_name>Jennie Evans</agent_name>
+    <agent_first_name>Jennie</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>542-2121</agent_phone_number>
+    <agent_email>jqevans@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>11</agent_id>
+    <agent_name>Connie Anderson</agent_name>
+    <agent_first_name>Connie</agent_first_name>
+    <agent_last_name>Anderson</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>331-6644</agent_phone_number>
+    <agent_email>cja@bga.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>12</agent_id>
+    <agent_name>Irene Yanez</agent_name>
+    <agent_first_name>Irene</agent_first_name>
+    <agent_last_name>Yanez</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>398-7148</agent_phone_number>
+    <agent_email>irene_cw@centuryinter.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>13</agent_id>
+    <agent_name>"Bill" Johnson</agent_name>
+    <agent_first_name>"Bill"</agent_first_name>
+    <agent_last_name>Johnson</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>276-6508</agent_phone_number>
+    <agent_email>rxrelo@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>14</agent_id>
+    <agent_name>Terri Eller</agent_name>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Eller</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>terrieller@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>15</agent_id>
+    <agent_name>Carolyn Eudy</agent_name>
+    <agent_first_name>Carolyn</agent_first_name>
+    <agent_last_name>Eudy</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>558-8955</agent_phone_number>
+    <agent_email>www.jimeudy@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>16</agent_id>
+    <agent_name>Florence Little</agent_name>
+    <agent_first_name>Florence</agent_first_name>
+    <agent_last_name>Little</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>17</agent_id>
+    <agent_name>Sonny Mobley</agent_name>
+    <agent_first_name>Sonny</agent_first_name>
+    <agent_last_name>Mobley</agent_last_name>
+    <agent_area_code>830</agent_area_code>
+    <agent_phone_number>598-1606</agent_phone_number>
+    <agent_email>sonny@hsbay.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>18</agent_id>
+    <agent_name>Mike McMullen</agent_name>
+    <agent_first_name>Mike</agent_first_name>
+    <agent_last_name>McMullen</agent_last_name>
+    <agent_area_code>210</agent_area_code>
+    <agent_phone_number>366-1510</agent_phone_number>
+    <agent_email>c21actsa@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>19</agent_id>
+    <agent_name>Bunny Roberts</agent_name>
+    <agent_first_name>Bunny</agent_first_name>
+    <agent_last_name>Roberts</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>279-7653</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>20</agent_id>
+    <agent_name>Janet Wallace</agent_name>
+    <agent_first_name>Janet</agent_first_name>
+    <agent_last_name>Wallace</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>897-7005</agent_phone_number>
+    <agent_email>wallace@EAZE.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>21</agent_id>
+    <agent_name>John Pierce</agent_name>
+    <agent_first_name>John</agent_first_name>
+    <agent_last_name>Pierce</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>303-4441</agent_phone_number>
+    <agent_email>jlpierce@gte.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>22</agent_id>
+    <agent_name>Phyllis Whitaker</agent_name>
+    <agent_first_name>Phyllis</agent_first_name>
+    <agent_last_name>Whitaker</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>353-1776</agent_phone_number>
+    <agent_email>rmorris@itouch.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>23</agent_id>
+    <agent_name>Darrell Haney</agent_name>
+    <agent_first_name>Darrell</agent_first_name>
+    <agent_last_name>Haney</agent_last_name>
+    <agent_area_code>830</agent_area_code>
+    <agent_phone_number>598-2553</agent_phone_number>
+    <agent_email>darrell@hsbay.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>24</agent_id>
+    <agent_name>Michelle Knight</agent_name>
+    <agent_first_name>Michelle</agent_first_name>
+    <agent_last_name>Knight</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>MLCSSK@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>25</agent_id>
+    <agent_name>Terri Hurlbert</agent_name>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Hurlbert</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>596-9446</agent_phone_number>
+    <agent_email>thurlbert@century21jduncan.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>26</agent_id>
+    <agent_name>Mary Evans</agent_name>
+    <agent_first_name>Mary</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>353-5171</agent_phone_number>
+    <agent_email>mevans@sanmarcos.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>27</agent_id>
+    <agent_name>McMillan Smith</agent_name>
+    <agent_first_name>McMillan</agent_first_name>
+    <agent_last_name>Smith</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>242-6500</agent_phone_number>
+    <agent_email>realtorbmc@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>28</agent_id>
+    <agent_name>GRIFFIN JOAN</agent_name>
+    <agent_first_name>GRIFFIN</agent_first_name>
+    <agent_last_name>JOAN</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>463-1141</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>29</agent_id>
+    <agent_name>Irona Alexander</agent_name>
+    <agent_first_name>Irona</agent_first_name>
+    <agent_last_name>Alexander</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>295-6161</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>30</agent_id>
+    <agent_name>Marchel Eubank</agent_name>
+    <agent_first_name>Marchel</agent_first_name>
+    <agent_last_name>Eubank</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>694-2111</agent_phone_number>
+    <agent_email>mmeubank@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>31</agent_id>
+    <agent_name>Frank Rainosek</agent_name>
+    <agent_first_name>Frank</agent_first_name>
+    <agent_last_name>Rainosek</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>303-4441</agent_phone_number>
+    <agent_email>rainosek@gte.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>32</agent_id>
+    <agent_name>Donna Rice</agent_name>
+    <agent_first_name>Donna</agent_first_name>
+    <agent_last_name>Rice</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>288-4040</agent_phone_number>
+    <agent_email>flash.net/~peerman/</agent_email>
+</tuple>
+<tuple>
+    <agent_id>33</agent_id>
+    <agent_name>Linda Quandt</agent_name>
+    <agent_first_name>Linda</agent_first_name>
+    <agent_last_name>Quandt</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>595-7653</agent_phone_number>
+    <agent_email>C21Linda@excite.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>34</agent_id>
+    <agent_name>Antonio Alvarez</agent_name>
+    <agent_first_name>Antonio</agent_first_name>
+    <agent_last_name>Alvarez</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>35</agent_id>
+    <agent_name>Dolly McLaughlin</agent_name>
+    <agent_first_name>Dolly</agent_first_name>
+    <agent_last_name>McLaughlin</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>343-1233</agent_phone_number>
+    <agent_email>dmclau4198@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>36</agent_id>
+    <agent_name>Terri Eller</agent_name>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Eller</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>terrieller@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>37</agent_id>
+    <agent_name>MARIE YOUNG</agent_name>
+    <agent_first_name>MARIE</agent_first_name>
+    <agent_last_name>YOUNG</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>526-8100</agent_phone_number>
+    <agent_email>reree@juno.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>38</agent_id>
+    <agent_name>Brenda Webb</agent_name>
+    <agent_first_name>Brenda</agent_first_name>
+    <agent_last_name>Webb</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>556-9998</agent_phone_number>
+    <agent_email>bwebb@brendawebb.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>39</agent_id>
+    <agent_name>Susan Filina</agent_name>
+    <agent_first_name>Susan</agent_first_name>
+    <agent_last_name>Filina</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>295-8171</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>40</agent_id>
+    <agent_name>Robin Taylor</agent_name>
+    <agent_first_name>Robin</agent_first_name>
+    <agent_last_name>Taylor</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>558-8955</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>41</agent_id>
+    <agent_name>SUSAN YOUNGBLOOD</agent_name>
+    <agent_first_name>SUSAN</agent_first_name>
+    <agent_last_name>YOUNGBLOOD</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>794-9292</agent_phone_number>
+    <agent_email>susany@onr.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>42</agent_id>
+    <agent_name>Jennie Evans</agent_name>
+    <agent_first_name>Jennie</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>542-2121</agent_phone_number>
+    <agent_email>jqevans@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>43</agent_id>
+    <agent_name>Randy McDonald</agent_name>
+    <agent_first_name>Randy</agent_first_name>
+    <agent_last_name>McDonald</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>303-3738</agent_phone_number>
+    <agent_email>javcom@javcom.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>44</agent_id>
+    <agent_name>MARVIN GERBER</agent_name>
+    <agent_first_name>MARVIN</agent_first_name>
+    <agent_last_name>GERBER</agent_last_name>
+    <agent_area_code>409</agent_area_code>
+    <agent_phone_number> 542-1234</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>45</agent_id>
+    <agent_name>Arrie Montgomery</agent_name>
+    <agent_first_name>Arrie</agent_first_name>
+    <agent_last_name>Montgomery</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>321-5300</agent_phone_number>
+    <agent_email>amontgomery1@compuserve.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>46</agent_id>
+    <agent_name>Marchel Eubank</agent_name>
+    <agent_first_name>Marchel</agent_first_name>
+    <agent_last_name>Eubank</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>694-2111</agent_phone_number>
+    <agent_email>mmeubank@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>47</agent_id>
+    <agent_name>Jennie Evans</agent_name>
+    <agent_first_name>Jennie</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>542-2121</agent_phone_number>
+    <agent_email>jqevans@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>48</agent_id>
+    <agent_name>MAGGIE MAYFIELD</agent_name>
+    <agent_first_name>MAGGIE</agent_first_name>
+    <agent_last_name>MAYFIELD</agent_last_name>
+    <agent_area_code>409</agent_area_code>
+    <agent_phone_number> 542-1234</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>49</agent_id>
+    <agent_name>Paula Housman</agent_name>
+    <agent_first_name>Paula</agent_first_name>
+    <agent_last_name>Housman</agent_last_name>
+    <agent_area_code>409</agent_area_code>
+    <agent_phone_number> 542-1234</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>50</agent_id>
+    <agent_name>Betty Shavor</agent_name>
+    <agent_first_name>Betty</agent_first_name>
+    <agent_last_name>Shavor</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>255-7888</agent_phone_number>
+    <agent_email>sbshavor@earthlink.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>51</agent_id>
+    <agent_name>Bob Holzmueller</agent_name>
+    <agent_first_name>Bob</agent_first_name>
+    <agent_last_name>Holzmueller</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>794-9292</agent_phone_number>
+    <agent_email>bob&amp;maria@realtor.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>52</agent_id>
+    <agent_name>Ann Bragg</agent_name>
+    <agent_first_name>Ann</agent_first_name>
+    <agent_last_name>Bragg</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>337-4557</agent_phone_number>
+    <agent_email>abragg@eazylink.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>53</agent_id>
+    <agent_name>Terri Eller</agent_name>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Eller</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>terrieller@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>54</agent_id>
+    <agent_name>Jeff McSpadden</agent_name>
+    <agent_first_name>Jeff</agent_first_name>
+    <agent_last_name>McSpadden</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>279-7653</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>55</agent_id>
+    <agent_name>Florence Little</agent_name>
+    <agent_first_name>Florence</agent_first_name>
+    <agent_last_name>Little</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>56</agent_id>
+    <agent_name>The Team</agent_name>
+    <agent_first_name>The</agent_first_name>
+    <agent_last_name>Team</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>833-3588</agent_phone_number>
+    <agent_email>hcfrit@austin.quik.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>57</agent_id>
+    <agent_name>Mary Evans</agent_name>
+    <agent_first_name>Mary</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>353-5171</agent_phone_number>
+    <agent_email>mevans@sanmarcos.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>58</agent_id>
+    <agent_name>Albert Akano</agent_name>
+    <agent_first_name>Albert</agent_first_name>
+    <agent_last_name>Akano</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>443-8326</agent_phone_number>
+    <agent_email>info@century21austin.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>59</agent_id>
+    <agent_name>INA PERLMAN</agent_name>
+    <agent_first_name>INA</agent_first_name>
+    <agent_last_name>PERLMAN</agent_last_name>
+    <agent_area_code>713</agent_area_code>
+    <agent_phone_number>621-4953</agent_phone_number>
+    <agent_email>mob@onramp.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>60</agent_id>
+    <agent_name>Roberta Roby</agent_name>
+    <agent_first_name>Roberta</agent_first_name>
+    <agent_last_name>Roby</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>241-7417</agent_phone_number>
+    <agent_email>rrobyREALT@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>61</agent_id>
+    <agent_name>Debbie Rogers</agent_name>
+    <agent_first_name>Debbie</agent_first_name>
+    <agent_last_name>Rogers</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>596-9446</agent_phone_number>
+    <agent_email>drogers@century21jduncan.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>62</agent_id>
+    <agent_name>SAM ADAMS</agent_name>
+    <agent_first_name>SAM</agent_first_name>
+    <agent_last_name>ADAMS</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>526-8100</agent_phone_number>
+    <agent_email>adams@juno.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>63</agent_id>
+    <agent_name>Farrar Smith</agent_name>
+    <agent_first_name>Farrar</agent_first_name>
+    <agent_last_name>Smith</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>242-6500</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>64</agent_id>
+    <agent_name>Danny Dunn</agent_name>
+    <agent_first_name>Danny</agent_first_name>
+    <agent_last_name>Dunn</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>668-3300</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>65</agent_id>
+    <agent_name>Wendy Blair</agent_name>
+    <agent_first_name>Wendy</agent_first_name>
+    <agent_last_name>Blair</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>wendy.blair@realtor.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>66</agent_id>
+    <agent_name>Ronnie Robie</agent_name>
+    <agent_first_name>Ronnie</agent_first_name>
+    <agent_last_name>Robie</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>558-8955</agent_phone_number>
+    <agent_email>ronnierobie@hotmail.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>67</agent_id>
+    <agent_name>Jay Horton</agent_name>
+    <agent_first_name>Jay</agent_first_name>
+    <agent_last_name>Horton</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>833-3586</agent_phone_number>
+    <agent_email>jjhorton@prismnet.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>68</agent_id>
+    <agent_name>Sandra Buchanan</agent_name>
+    <agent_first_name>Sandra</agent_first_name>
+    <agent_last_name>Buchanan</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>542-1800</agent_phone_number>
+    <agent_email>sandyb21@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>69</agent_id>
+    <agent_name>Lori Tims</agent_name>
+    <agent_first_name>Lori</agent_first_name>
+    <agent_last_name>Tims</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>694-2111</agent_phone_number>
+    <agent_email>LoriJTims @aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>70</agent_id>
+    <agent_name>Perry Sharboneau</agent_name>
+    <agent_first_name>Perry</agent_first_name>
+    <agent_last_name>Sharboneau</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>327-3200</agent_phone_number>
+    <agent_email>sharboneau@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>71</agent_id>
+    <agent_name>Sandy Menley</agent_name>
+    <agent_first_name>Sandy</agent_first_name>
+    <agent_last_name>Menley</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>281-3336</agent_phone_number>
+    <agent_email>winkler@texasproperties.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>72</agent_id>
+    <agent_name>Judith Matula</agent_name>
+    <agent_first_name>Judith</agent_first_name>
+    <agent_last_name>Matula</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>446-4243</agent_phone_number>
+    <agent_email>rlaj@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>73</agent_id>
+    <agent_name>INA PERLMAN</agent_name>
+    <agent_first_name>INA</agent_first_name>
+    <agent_last_name>PERLMAN</agent_last_name>
+    <agent_area_code>713</agent_area_code>
+    <agent_phone_number>621-4953</agent_phone_number>
+    <agent_email>mob@onramp.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>74</agent_id>
+    <agent_name>Michelle Knight</agent_name>
+    <agent_first_name>Michelle</agent_first_name>
+    <agent_last_name>Knight</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>MLCSSK@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>75</agent_id>
+    <agent_name>Linda Quandt</agent_name>
+    <agent_first_name>Linda</agent_first_name>
+    <agent_last_name>Quandt</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>595-7653</agent_phone_number>
+    <agent_email>C21Linda@excite.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>76</agent_id>
+    <agent_name>Kyle Wheatley</agent_name>
+    <agent_first_name>Kyle</agent_first_name>
+    <agent_last_name>Wheatley</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>699-8444</agent_phone_number>
+    <agent_email>teamwheat@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>77</agent_id>
+    <agent_name>Leon Westfall</agent_name>
+    <agent_first_name>Leon</agent_first_name>
+    <agent_last_name>Westfall</agent_last_name>
+    <agent_area_code>409</agent_area_code>
+    <agent_phone_number>542-1234</agent_phone_number>
+    <agent_email>leon@westfallrealestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>78</agent_id>
+    <agent_name>Leon Westfall</agent_name>
+    <agent_first_name>Leon</agent_first_name>
+    <agent_last_name>Westfall</agent_last_name>
+    <agent_area_code>409</agent_area_code>
+    <agent_phone_number>542-1234</agent_phone_number>
+    <agent_email>leon@westfallrealestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>79</agent_id>
+    <agent_name>Irona Thompson</agent_name>
+    <agent_first_name>Irona</agent_first_name>
+    <agent_last_name>Thompson</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>554-2121</agent_phone_number>
+    <agent_email>irona@maxxrep.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>80</agent_id>
+    <agent_name>Joyce Baker</agent_name>
+    <agent_first_name>Joyce</agent_first_name>
+    <agent_last_name>Baker</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>444-0551</agent_phone_number>
+    <agent_email>jbaker@dlrealtors.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>81</agent_id>
+    <agent_name>Jim LaRoe</agent_name>
+    <agent_first_name>Jim</agent_first_name>
+    <agent_last_name>LaRoe</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>444-0551</agent_phone_number>
+    <agent_email>jimlaroe@dlrealtors.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>82</agent_id>
+    <agent_name>Donna Rice</agent_name>
+    <agent_first_name>Donna</agent_first_name>
+    <agent_last_name>Rice</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>288-4040</agent_phone_number>
+    <agent_email>flash.net/~peerman/</agent_email>
+</tuple>
+<tuple>
+    <agent_id>83</agent_id>
+    <agent_name>Marty Flowers</agent_name>
+    <agent_first_name>Marty</agent_first_name>
+    <agent_last_name>Flowers</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>847-2291</agent_phone_number>
+    <agent_email>martyf@wimberley-tx.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>84</agent_id>
+    <agent_name>Lois Madry</agent_name>
+    <agent_first_name>Lois</agent_first_name>
+    <agent_last_name>Madry</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>279-7653</agent_phone_number>
+    <agent_email>loism52@yahoo.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>85</agent_id>
+    <agent_name>Brenda Damron</agent_name>
+    <agent_first_name>Brenda</agent_first_name>
+    <agent_last_name>Damron</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>353-1776</agent_phone_number>
+    <agent_email>rmorris@itouch.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>86</agent_id>
+    <agent_name>Mark Virdell</agent_name>
+    <agent_first_name>Mark</agent_first_name>
+    <agent_last_name>Virdell</agent_last_name>
+    <agent_area_code>915</agent_area_code>
+    <agent_phone_number>247-5782</agent_phone_number>
+    <agent_email>mtv@tstar.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>87</agent_id>
+    <agent_name>Cyndi DePalermo</agent_name>
+    <agent_first_name>Cyndi</agent_first_name>
+    <agent_last_name>DePalermo</agent_last_name>
+    <agent_area_code>281</agent_area_code>
+    <agent_phone_number>337-4557</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>88</agent_id>
+    <agent_name>Monique Latimer</agent_name>
+    <agent_first_name>Monique</agent_first_name>
+    <agent_last_name>Latimer</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>89</agent_id>
+    <agent_name>Hassan Jaffar</agent_name>
+    <agent_first_name>Hassan</agent_first_name>
+    <agent_last_name>Jaffar</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>443-8326</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>90</agent_id>
+    <agent_name>Marchel Eubank</agent_name>
+    <agent_first_name>Marchel</agent_first_name>
+    <agent_last_name>Eubank</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>694-2111</agent_phone_number>
+    <agent_email>mmeubank@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>91</agent_id>
+    <agent_name>Linda Quandt</agent_name>
+    <agent_first_name>Linda</agent_first_name>
+    <agent_last_name>Quandt</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>595-7653</agent_phone_number>
+    <agent_email>C21Linda@excite.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>92</agent_id>
+    <agent_name>Gail Schiavone</agent_name>
+    <agent_first_name>Gail</agent_first_name>
+    <agent_last_name>Schiavone</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>303-3738</agent_phone_number>
+    <agent_email>javcom@javcom.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>93</agent_id>
+    <agent_name>Michelle Knight</agent_name>
+    <agent_first_name>Michelle</agent_first_name>
+    <agent_last_name>Knight</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>MLCSSK@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>94</agent_id>
+    <agent_name>Jessica Shaw</agent_name>
+    <agent_first_name>Jessica</agent_first_name>
+    <agent_last_name>Shaw</agent_last_name>
+    <agent_area_code>830</agent_area_code>
+    <agent_phone_number>303-4472</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>95</agent_id>
+    <agent_name>Emma Morin</agent_name>
+    <agent_first_name>Emma</agent_first_name>
+    <agent_last_name>Morin</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>595-7653</agent_phone_number>
+    <agent_email>info@westfall_realestate.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>96</agent_id>
+    <agent_name>Janice Campbell</agent_name>
+    <agent_first_name>Janice</agent_first_name>
+    <agent_last_name>Campbell</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>833-3584</agent_phone_number>
+    <agent_email>janicecampbell@housesoldname.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>97</agent_id>
+    <agent_name>Carol Dolecki</agent_name>
+    <agent_first_name>Carol</agent_first_name>
+    <agent_last_name>Dolecki</agent_last_name>
+    <agent_area_code>254</agent_area_code>
+    <agent_phone_number>542-1800</agent_phone_number>
+    <agent_email>carold@sagelink.net</agent_email>
+</tuple>
+<tuple>
+    <agent_id>98</agent_id>
+    <agent_name>Debbie Jackson</agent_name>
+    <agent_first_name>Debbie</agent_first_name>
+    <agent_last_name>Jackson</agent_last_name>
+    <agent_area_code>361</agent_area_code>
+    <agent_phone_number>853-2121</agent_phone_number>
+    <agent_email>TurtleDebJ@aol.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>99</agent_id>
+    <agent_name>Mike Evans</agent_name>
+    <agent_first_name>Mike</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_area_code>817</agent_area_code>
+    <agent_phone_number>558-8955</agent_phone_number>
+    <agent_email>mikeevan@hpnc.com</agent_email>
+</tuple>
+<tuple>
+    <agent_id>100</agent_id>
+    <agent_name>Floyd Jr.</agent_name>
+    <agent_first_name>Floyd</agent_first_name>
+    <agent_last_name>Jr.</agent_last_name>
+    <agent_area_code>512</agent_area_code>
+    <agent_phone_number>398-7148</agent_phone_number>
+    <agent_email>floyd_cw@centuryinter.net</agent_email>
+</tuple>
+</root>

@@ -1,0 +1,143 @@
+cuda memory allocated: 27930112
+n_trainable_params: 6964994, n_nontrainable_params: 17100
+> training arguments:
+>>> model_name: aoa
+>>> dataset: estate
+>>> optimizer: <class 'torch.optim.sgd.SGD'>
+>>> lrshrink: 5
+>>> decay: 0.99
+>>> minlr: 1e-05
+>>> initializer: <function xavier_uniform_ at 0x7f4a7d21b940>
+>>> learning_rate: 0.8
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 30
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> max_seq_len: 240
+>>> polarities_dim: 2
+>>> hops: 3
+>>> device: cuda:0
+>>> seed: None
+>>> valset_ratio: 0.2
+>>> sround: None
+>>> local_context_focus: cdm
+>>> SRD: 3
+>>> model_class: <class 'models.aoa.AOA'>
+>>> dataset_file: {'train': './datasets/kevin_data/train_real_estates.xlsx', 'test': './datasets/kevin_data/test_real_estates.xlsx', 'val': './datasets/kevin_data/val_real_estates.xlsx'}
+>>> inputs_cols: ['text_raw_indices1', 'aspect_indices1', 'text_raw_indices2', 'aspect_indices2']
+>>> optimizer_rec: sgd
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 0.7671, acc: 0.5375
+loss: 0.7219, acc: 0.5516
+loss: 0.6696, acc: 0.6104
+> val_acc: 0.4017, val_f1: 0.1434
+> report: {'precision': 0.07725947521865889, 'recall': 1.0, 'f1-score': 0.14343707713125847, 'support': 53}
+>> saved: state_dict/kevin_model/estate/None_estate_val_f1_0.1434
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 0.5610, acc: 0.6354
+loss: 0.4670, acc: 0.7461
+loss: 0.4666, acc: 0.7500
+> val_acc: 0.9811, val_f1: 0.7727
+> report: {'precision': 0.9714285714285714, 'recall': 0.6415094339622641, 'f1-score': 0.7727272727272727, 'support': 53}
+>> saved: state_dict/kevin_model/estate/None_estate_val_f1_0.7727
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 0.4908, acc: 0.7500
+loss: 0.3046, acc: 0.8490
+loss: 0.2562, acc: 0.8793
+loss: 0.1964, acc: 0.9121
+> val_acc: 0.9783, val_f1: 0.8067
+> report: {'precision': 0.7272727272727273, 'recall': 0.9056603773584906, 'f1-score': 0.8067226890756303, 'support': 53}
+>> saved: state_dict/kevin_model/estate/None_estate_val_f1_0.8067
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 4
+loss: 0.0637, acc: 0.9805
+loss: 0.1574, acc: 0.9497
+loss: 0.1445, acc: 0.9576
+> val_acc: 0.9905, val_f1: 0.9000
+> report: {'precision': 0.9574468085106383, 'recall': 0.8490566037735849, 'f1-score': 0.9, 'support': 53}
+>> saved: state_dict/kevin_model/estate/None_estate_val_f1_0.9
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 5
+loss: 0.0994, acc: 0.9609
+loss: 0.0709, acc: 0.9754
+loss: 0.0575, acc: 0.9792
+loss: 0.0505, acc: 0.9820
+> val_acc: 0.9858, val_f1: 0.8760
+> report: {'precision': 0.7794117647058824, 'recall': 1.0, 'f1-score': 0.8760330578512397, 'support': 53}
+Shrinking lr by : 5. New lr = 0.16
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 6
+loss: 0.0161, acc: 1.0000
+loss: 0.0160, acc: 1.0000
+loss: 0.0148, acc: 1.0000
+> val_acc: 0.9887, val_f1: 0.8983
+> report: {'precision': 0.8153846153846154, 'recall': 1.0, 'f1-score': 0.8983050847457628, 'support': 53}
+Shrinking lr by : 5. New lr = 0.032
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 7
+loss: 0.0314, acc: 0.9896
+loss: 0.0299, acc: 0.9922
+loss: 0.0268, acc: 0.9928
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+>> saved: state_dict/kevin_model/estate/None_estate_val_f1_0.906
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 8
+loss: 0.0137, acc: 1.0000
+loss: 0.0149, acc: 1.0000
+loss: 0.0183, acc: 0.9957
+loss: 0.0173, acc: 0.9971
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+Shrinking lr by : 5. New lr = 0.0064
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 9
+loss: 0.0256, acc: 0.9961
+loss: 0.0208, acc: 0.9965
+loss: 0.0185, acc: 0.9978
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+Shrinking lr by : 5. New lr = 0.00128
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 10
+loss: 0.0166, acc: 0.9922
+loss: 0.0155, acc: 0.9978
+loss: 0.0155, acc: 0.9974
+loss: 0.0155, acc: 0.9981
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+Shrinking lr by : 5. New lr = 0.00025600000000000004
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 11
+loss: 0.0205, acc: 0.9969
+loss: 0.0205, acc: 0.9953
+loss: 0.0228, acc: 0.9948
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+Shrinking lr by : 5. New lr = 5.120000000000001e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 12
+loss: 0.0158, acc: 0.9948
+loss: 0.0169, acc: 0.9961
+loss: 0.0176, acc: 0.9964
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+Shrinking lr by : 5. New lr = 1.0240000000000002e-05
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 13
+loss: 0.0109, acc: 1.0000
+loss: 0.0109, acc: 1.0000
+loss: 0.0153, acc: 0.9957
+loss: 0.0157, acc: 0.9961
+> val_acc: 0.9896, val_f1: 0.9060
+> report: {'precision': 0.828125, 'recall': 1.0, 'f1-score': 0.905982905982906, 'support': 53}
+Shrinking lr by : 5. New lr = 2.0480000000000006e-06
+>> test_acc: 0.9925, test_f1: 0.9596
+> report: {'precision': 1.0, 'recall': 0.8571428571428571, 'f1-score': 0.923076923076923, 'support': 7}
