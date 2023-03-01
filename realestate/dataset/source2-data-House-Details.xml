@@ -1,0 +1,3201 @@
+<root>
+<tuple>
+    <house_street>1100 The Cape Horseshoe</house_street>
+    <house_city>Bay</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78657</house_zip_code>
+    <house_price>$54,500</house_price>
+    <agent_first_name>Janet</agent_first_name>
+    <agent_last_name>Simpson</agent_last_name>
+    <agent_id>1</agent_id>
+            <firm_name>CENTURY 21 Keiser &amp; Co.</firm_name>
+    <firm_street>704 Second Street Marble</firm_street>
+    <firm_city>Falls</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78654</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>1</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Llano</elementary_school>
+    <house_description>PERFECT GET AWAY FROM IT ALL UNIT! WATER VIEW, WATER ACCESS. NEEDS A LITTLE TLC, BUT IS CERTAINLY &amp;quot;DO-ABLE&quot; AT THIS PRICE! ALL FURNITURE, EXCEPT PERSONAL ITEMS, WILL CONVEY WITH THE SALE.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>10035 (207) SILVER SPUR Horseshoe</house_street>
+    <house_city>Bay</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78657</house_zip_code>
+    <house_price>$194,500</house_price>
+    <agent_first_name>Renee</agent_first_name>
+    <agent_last_name>Thomas</agent_last_name>
+    <agent_id>2</agent_id>
+            <firm_name>Horseshoe Bay Corp</firm_name>
+    <firm_street>PO Box 7752 Horseshoe</firm_street>
+    <firm_city>Bay</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78657</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Llano</elementary_school>
+    <house_description>3 bedroom, 2 bath brick home with tile roof.  Overlooking Slick Rock Golf Course Seventh Fairway.  Maintenance free exterior.  Established yard and neighborhood.  New appliances in kitchen.  Washer/dryer remains.  Furniture is negotiable.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>321 Cherry Street</house_street>
+    <house_city>Weatherford</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76086</house_zip_code>
+    <house_price>$76,500</house_price>
+    <agent_first_name>Emily</agent_first_name>
+    <agent_last_name>Prowell</agent_last_name>
+    <agent_id>3</agent_id>
+            <firm_name>CENTURY 21 Jim Duncan, Inc.</firm_name>
+    <firm_street>1836 Santa Fe Drive</firm_street>
+    <firm_city>Weatherford</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76086</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1162</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Weatherford</elementary_school>
+    <house_description>Brick home located on quiet street. Three bedroom, 2 bath, 2 car garage.  Easy access to I-20.  Seller will give $2,000 carpet allowance.  Home has new electric kitchen range, new shower installed in Master Bath.    Near schools and shopping!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>4306 Pontchartrain Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78413</house_zip_code>
+    <house_price>$369,000</house_price>
+    <agent_first_name>Lee</agent_first_name>
+    <agent_last_name>Hassman</agent_last_name>
+    <agent_id>4</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>3</garage>
+    <building_area>3555</building_area>
+    <lot_dimension1>90</lot_dimension1>
+    <lot_dimension2>120</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Ccisd</elementary_school>
+    <house_description>Ultimate luxury custom home. Millenium kitchen, 5 burner stove, popup vent hood, granite countertops, master suite with 2 walk ins, large whirlpool tub sauna, circular staircase, dual zone a/c, central vacuum, thermo windows, fireplace, intercom + much much more!!!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>15014 (103) HARBOR LIGHT Horseshoe</house_street>
+    <house_city>Bay</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78657</house_zip_code>
+    <house_price>$595,000</house_price>
+    <agent_first_name>Renee</agent_first_name>
+    <agent_last_name>Thomas</agent_last_name>
+    <agent_id>5</agent_id>
+            <firm_name>Horseshoe Bay Corp</firm_name>
+    <firm_street>PO Box 7752 Horseshoe</firm_street>
+    <firm_city>Bay</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78657</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Llano</elementary_school>
+    <house_description>Single level waterfront home protected by a canopy of trees.  Established neighborhood close to Yacht Club amenities.  Classic Mediterranean styling.  Washer, dryer, refrigerator convey.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2321 Kirby Aransas</house_street>
+    <house_city>Pass</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78336</house_zip_code>
+    <house_price>$110,400</house_price>
+    <agent_first_name>Betty</agent_first_name>
+    <agent_last_name>Midyett</agent_last_name>
+    <agent_id>6</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1748</building_area>
+    <lot_dimension1>160</lot_dimension1>
+    <lot_dimension2>640</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aransas Pass Isd</elementary_school>
+    <house_description>Very well maintained mini ranch, custom built and fully fenced, lotsa room for the person that likes country living and privacy! Split bedrooms, bonus room, RV parking, nice open patio in back, storage building plus much more!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>505 Cochran Road in North</house_street>
+    <house_city>Weatherford</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76088</house_zip_code>
+    <house_price>$320,000</house_price>
+    <agent_first_name>Sherron</agent_first_name>
+    <agent_last_name>Deaver</agent_last_name>
+    <agent_id>7</agent_id>
+            <firm_name>CENTURY 21 Jim Duncan, Inc.</firm_name>
+    <firm_street>1836 Santa Fe Drive</firm_street>
+    <firm_city>Weatherford</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76086</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2706</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Weatherford</elementary_school>
+    <house_description>Country home on 4.42 acres.  Great family home with 5 bedrooms and 2 1/2 baths.    Austin stone home with wrap around porch.  Large metal building for your business/office.  Nice, quiet area not too far from town.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Window Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>742 COUNTRY LANE</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77024</house_zip_code>
+    <house_price>$329,000</house_price>
+    <agent_first_name>SIGRUN</agent_first_name>
+    <agent_last_name>BURKE</agent_last_name>
+    <agent_id>8</agent_id>
+            <firm_name>COLDWELL BANKER MADELINE OBRIEN, REALTORS</firm_name>
+    <firm_street>2121 Sage Rd., Suite 300</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77056</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>WONDERFUL HUNTER�S CREEK HOME WITH BEAUTIFUL HARDWOODS, TILE FLOORS, UPDATED KITCHEN AND LIGHT &amp; AIRY SUN-ROOM/DEN-HANDSOME WOODED LOT IN A GREAT LOCATION-WALK TO HUNTER�S CREEK ELEMENTARY SCHOOL-SHOWS VERY WELL! JUST REDUCED! HURRY, THIS BEAUTY WON�T LAST.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>256 Lamaloa</house_street>
+    <house_city>Bastrop</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78602</house_zip_code>
+    <house_price>$89,900</house_price>
+    <agent_first_name>Cece</agent_first_name>
+    <agent_last_name>Hurst</agent_last_name>
+    <agent_id>9</agent_id>
+            <firm_name>Coldwell Banker Mary Ann Green Realty</firm_name>
+    <firm_street>1620 Industry</firm_street>
+    <firm_city>Bastrop</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78602</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1282</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Bastrop ISD</elementary_school>
+    <house_description>Here is a wonderful family home in Tahitian Village. This 3 bedroom 2 bath house has a MIL plan and 1282 square feet of living space. The master bedroom has a separate bath and a private entrance. This affordable home is in a great location and just waiting for the perfect family. Call Cece Hurst today to see this great buy!</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2901 Ogletree Gap Copperas</house_street>
+    <house_city>Cove</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76522</house_zip_code>
+    <house_price>$242,500</house_price>
+    <agent_first_name>Jennie</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_id>10</agent_id>
+            <firm_name>CENTURY 21 1st Choice</firm_name>
+    <firm_street>2702 E. HWY 190 Copperas</firm_street>
+    <firm_city>Cove</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76522</firm_zip_code>
+    <garage>2</garage>
+    <building_area>3432</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Ccisd</elementary_school>
+    <house_description>So big, so convenient, so affordable!  Come see this contemporary 2 story home with 5 or 6 good-sized bedrooms, 3 living areas, game room with bar over looking the valley, sun room, 2 dining and 3+ baths.  Spacious kitchen, side entry garage, large patio with steps to upstairs deck, brick storage shed with workshop, in-ground pool and more!</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Oil,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>8504 Dunsmere</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78749</house_zip_code>
+    <house_price>$202,900</house_price>
+    <agent_first_name>Connie</agent_first_name>
+    <agent_last_name>Anderson</agent_last_name>
+    <agent_id>11</agent_id>
+            <firm_name>RE/MAX Capital City North</firm_name>
+    <firm_street>13018-A Research Blvd.</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78750</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aisd</elementary_school>
+    <house_description>Great &quot;Weekley&quot; Home in Western Oaks.  Extensive Landscaping.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Forced Air,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>808 NIXON ST.</house_street>
+    <house_city>Lockhart</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78644</house_zip_code>
+    <house_price>$129,900</house_price>
+    <agent_first_name>Irene</agent_first_name>
+    <agent_last_name>Yanez</agent_last_name>
+    <agent_id>12</agent_id>
+            <firm_name>COUNTYWIDE REALTY</firm_name>
+    <firm_street>300 S. Colorado St.</firm_street>
+    <firm_city>Lockhart</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78644</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2656</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Lockhart</elementary_school>
+    <house_description>This is a wonderful five bedroom home with three full baths, a living area, a kitchen with lots of cabinets, a breakfast area, a formal dining area, and two bedrooms downstairs. There is an office with built-ins, a utlility area, and a two car garage.  Three bedrooms and a one bath are located upstairs.  A nice patio, fenced backyard, two CH/CA units, ceiling fans, and double pane windows are featured.  The downstairs master opens to a beautiful shade covered deck.  There are large walk-in closets.  The upstairs master has double sinks, two large closets, and a large sitting area.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2111 Chappell Lane, Lake Olympia Missouri</house_street>
+    <house_city>City</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77459</house_zip_code>
+    <house_price>$179,997</house_price>
+    <agent_first_name>"Bill"</agent_first_name>
+    <agent_last_name>Johnson</agent_last_name>
+    <agent_id>13</agent_id>
+            <firm_name>Realty Executives</firm_name>
+    <firm_street>1650 Hwy. 6 suite 190 Sugar</firm_street>
+    <firm_city>Land</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77478</firm_zip_code>
+    <garage>3</garage>
+    <building_area>2835</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Fort Bend</elementary_school>
+    <house_description>SOLD!!  This Executive home with  Large Master down with Home Office, Game room with 3 bdrms &amp; two full baths upstairs. Typical of my market and my specialty as a buyers agent If you are looking for a home similar to this or in this market area contact me at tel. 281 276-6508 or e-mail at rxrelo@aol.com.  In Texas we can act as your agent and represent your interests exclusively.  I am an Accredited Buyers Representative specializing in relocation.  And the best part is the service is at NO COST to you as the buyer !!!        Thanks,  Bill</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Forced Air,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>0 K Bar J Lot 10 Orange</house_street>
+    <house_city>Grove</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78372</house_zip_code>
+    <house_price>$7,500</house_price>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Eller</agent_last_name>
+    <agent_id>14</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>122.39</lot_dimension1>
+    <lot_dimension2>303.27</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Orange Grove</elementary_school>
+    <house_description>Mobile homes are accepted.  Two lots to choose from; Lot 10 &amp; ll = $7,500.00 each.About 1+ miles from Orange Grove on Hwy 359 going towards Mathis.Two great lots!!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>208 4th Street</house_street>
+    <house_city>Joshua</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76058</house_zip_code>
+    <house_price>$63,900</house_price>
+    <agent_first_name>Carolyn</agent_first_name>
+    <agent_last_name>Eudy</agent_last_name>
+    <agent_id>15</agent_id>
+            <firm_name>CENTURY 21 A-One Realty</firm_name>
+    <firm_street>300 N. Broadway</firm_street>
+    <firm_city>Joshua</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76058</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1287</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Joshua I S D</elementary_school>
+    <house_description>Cute home in town of Joshua.  Roomy 3 bedroom 2 bath home.  Nice utility room off carport.  Bonus storage room over carport or would make excellent play room for children.  Ceiling fans in all rooms.  New heat and Air.  Must see!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Wall Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Lower Trail (Pernitas Pt)</house_street>
+    <house_city>Sandia</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78383</house_zip_code>
+    <house_price>$44,900</house_price>
+    <agent_first_name>Florence</agent_first_name>
+    <agent_last_name>Little</agent_last_name>
+    <agent_id>16</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>1</garage>
+    <building_area>972</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Orange Grove</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2280 FRED WOOD DRIVE, POINT BREEZE #11, KINGSLAND Horseshoe</house_street>
+    <house_city>Bay</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78657</house_zip_code>
+    <house_price>$398,500</house_price>
+    <agent_first_name>Sonny</agent_first_name>
+    <agent_last_name>Mobley</agent_last_name>
+    <agent_id>17</agent_id>
+            <firm_name>Horseshoe Bay Corp</firm_name>
+    <firm_street>PO Box 7752 Horseshoe</firm_street>
+    <firm_city>Bay</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78657</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Llano</elementary_school>
+    <house_description>Waterfront home in Point Breeze, Kingsland.  Completely furnished including fishing boat and jet ski.  Microwave, ice maker, wet bar, oven, range, refrigerator.  Fishing pier, day docks, retaining wall, lake pump, workshop.  Insulated windows, ceiling fan.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>8739 Timber Point San</house_street>
+    <house_city>Antonio</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78250</house_zip_code>
+    <house_price>$83,995</house_price>
+    <agent_first_name>Mike</agent_first_name>
+    <agent_last_name>McMullen</agent_last_name>
+    <agent_id>18</agent_id>
+            <firm_name>CENTURY 21 Action -Northwest San Antonio</firm_name>
+    <firm_street>2900 Mossrock Dr., Suite 350 San</firm_street>
+    <firm_city>Antonio</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78230</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1586</building_area>
+    <lot_dimension1>69</lot_dimension1>
+    <lot_dimension2>123</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Northside</elementary_school>
+    <house_description>Large single living in open, flowing, multi-level plan, good landscaping with many trees, front &amp; back, quiet neighborhood. Kids can walk to school without crossing a street. New roof 2 years ago, exterior paint in progress. Seller will consider leaving washer, dryer and refrigerator with full price offer. AON home protection plan offered for buyer.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>801 Arrowhead Court (Ad # 613)</house_street>
+    <house_city>Granbury</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76048</house_zip_code>
+    <house_price>$65,000</house_price>
+    <agent_first_name>Bunny</agent_first_name>
+    <agent_last_name>Roberts</agent_last_name>
+    <agent_id>19</agent_id>
+            <firm_name>Century 21 Shirley Hooks, Inc.</firm_name>
+    <firm_street>201 E. Bridge</firm_street>
+    <firm_city>Granbury</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76048</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1296</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Granbury</elementary_school>
+    <house_description>1996 Open concept manufactured home.  Light &amp; airy, woodburning fireplace &amp; extra large master bedroom.  Also for lease @ $625/Mo.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>214 Magnolia</house_street>
+    <house_city>Hico</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76457</house_zip_code>
+    <house_price>$88,500</house_price>
+    <agent_first_name>Janet</agent_first_name>
+    <agent_last_name>Wallace</agent_last_name>
+    <agent_id>20</agent_id>
+            <firm_name>CENTURY 21 Quad J Realty</firm_name>
+    <firm_street>1305 N. E. Big Bend Trail Glen</firm_street>
+    <firm_city>Rose</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76043</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2082</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Hico</elementary_school>
+    <house_description>Get inside this home and you&#8217;ll be hooked. This is a builders house and is built well.    Master bedroom suite, Azroc commercial tile throughout, 5 ton carrier a/c, metal roof and very energy efficient. Now reduced!  Must see!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Window Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>500 Hudgins Street</house_street>
+    <house_city>Smithville</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$98,700</house_price>
+    <agent_first_name>John</agent_first_name>
+    <agent_last_name>Pierce</agent_last_name>
+    <agent_id>21</agent_id>
+            <firm_name>Kay Wesson Real Estate</firm_name>
+    <firm_street>807 Main Street</firm_street>
+    <firm_city>Bastrop</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78602</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Smithville</elementary_school>
+    <house_description>Charming two story 3/2 home on a nicely wooded corner lot in historic Smithville!  Beautiful wood floors and wood trim!  Fireplace in living room!  Central air and central heat.  Fenced backyard!  Carport.  Quiet neighborhoo.  A great place to raise a family!  Definitely worth seeing!  Call or e-mail John today for more details.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>604 La Rue San</house_street>
+    <house_city>Marcos</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78666</house_zip_code>
+    <house_price>$149,000</house_price>
+    <agent_first_name>Phyllis</agent_first_name>
+    <agent_last_name>Whitaker</agent_last_name>
+    <agent_id>22</agent_id>
+            <firm_name>Randall Morris &amp; Associates</firm_name>
+    <firm_street>333 Cheatham San</firm_street>
+    <firm_city>Marcos</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78666</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2400</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>San Marcos</elementary_school>
+    <house_description>Lovely brick house in Oak Heights.  Quiet neighborhood.  Easy access to RR12 and Bishop.  Very pleasant, great yard.</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Window Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>212 PECAN CREEK DRIVE, OAKRIDGE Horseshoe</house_street>
+    <house_city>Bay</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78657</house_zip_code>
+    <house_price>$279,000</house_price>
+    <agent_first_name>Darrell</agent_first_name>
+    <agent_last_name>Haney</agent_last_name>
+    <agent_id>23</agent_id>
+            <firm_name>Horseshoe Bay Corp</firm_name>
+    <firm_street>PO Box 7752 Horseshoe</firm_street>
+    <firm_city>Bay</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78657</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Llano</elementary_school>
+    <house_description>Beautiful waterfront home on 1 1/2 lots in Oakridge subdivision.  Fishing pier, retaining wall, lake pump, boat dock with lift.  Ceiling fans, water softener, microwave.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>5245 Fulwell Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78413</house_zip_code>
+    <house_price>$97,000</house_price>
+    <agent_first_name>Michelle</agent_first_name>
+    <agent_last_name>Knight</agent_last_name>
+    <agent_id>24</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1787</building_area>
+    <lot_dimension1>70</lot_dimension1>
+    <lot_dimension2>120</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Ccisd</elementary_school>
+    <house_description>Bright and open, backs up to St. Andrews Park, newer carpet, neutral colors, covered patio and deck, extra slab for boat or vehicles, great curb appeal, nice neighborhood.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Wood</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>855 Greenwood Cut-Off Road</house_street>
+    <house_city>Weatherford</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76088</house_zip_code>
+    <house_price>$315,000</house_price>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Hurlbert</agent_last_name>
+    <agent_id>25</agent_id>
+            <firm_name>CENTURY 21 Jim Duncan, Inc.</firm_name>
+    <firm_street>1836 Santa Fe Drive</firm_street>
+    <firm_city>Weatherford</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76086</firm_zip_code>
+    <garage>1</garage>
+    <building_area>3300</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Weatherford</elementary_school>
+    <house_description>Beautiful, well kept, spacious home on 8.47 acres features nice barn with apartment, tack room, wash rack, 4 stalls and more.   Property also features an arena with turnback shoots and a stock pond.  Electric gate and brick entrance with pipe fencing.  This spacious home has 4 bedrooms, 2 baths, a private office, light and bright breakfast area, tiled patio area with large back yard.  Fourth bedroom could be gameroom.   This property is the perfect horse place!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Window Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>708 Ashley Court San</house_street>
+    <house_city>Marcos</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78666</house_zip_code>
+    <house_price>$94,900</house_price>
+    <agent_first_name>Mary</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_id>26</agent_id>
+            <firm_name>Coldwell Banker First National, REALTORS</firm_name>
+    <firm_street>1224 Hwy 123 San</firm_street>
+    <firm_city>Marcos</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78666</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1280</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>San Marcos Cisd</elementary_school>
+    <house_description>Year Old HomeWhite Rock W/Bay WindowOpen Floor PlanNice KitchenLarge Master W/Garden Tub Seperate Shower</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Hot Water</heating>
+    <cooling>Window Unit,Atic Fan</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>5508 Shadywood Ln. Sugar</house_street>
+    <house_city>Land</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77479</house_zip_code>
+    <house_price>$399,000</house_price>
+    <agent_first_name>McMillan</agent_first_name>
+    <agent_last_name>Smith</agent_last_name>
+    <agent_id>27</agent_id>
+            <firm_name>Realty Executives</firm_name>
+    <firm_street>1650 Hwy. 6 suite 190 Sugar</firm_street>
+    <firm_city>Land</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77478</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Country home on 3.48 acres nestled among century old trees near Sweetwater Country Club in First Colony.  Land has 2 ponds, 5 stall barn and is fenced. All bedrooms are up. Master has fireplace. Home has both formals and 2 other large living areas, plus a sunroom off the breakfast room.  Updated with many improvements*Hardwoods,Corian &amp; much more.  Has porches all across the back and front of house.  Wonderfull home for entertainment for adults and kids!!  If you are looking for great location, excellent schools, lots of space don�t miss seeing this one.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Electric,Forced Air,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>18326 WILSTONE</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77084</house_zip_code>
+    <house_price>$209,900</house_price>
+    <agent_first_name>GRIFFIN</agent_first_name>
+    <agent_last_name>JOAN</agent_last_name>
+    <agent_id>28</agent_id>
+            <firm_name>Duffy &amp; LaRoe-REALTORS</firm_name>
+    <firm_street>4505 Hwy. 6 North</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77084</firm_zip_code>
+    <garage>3</garage>
+    <building_area>3881</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Cy-fair</elementary_school>
+    <house_description>FANTASTIC NEW ORLEANS FRENCH TRADITIONAL ON A CORNER LOT. OVER 3800SQ.FT. (PER HCAD).  IT HAS  4 BEDROOMS, 3 -1/2 BATHS, 3 CAR ATTACHED GARAGE. THERE IS A LARGE GAMEROOM UP WITH BUILT-INS, STUDY DOWN, AND A HUGE WALK-IN PANTRY. EXTRA ROOM IS A DARK ROOM (SINK  REMAINS). THERE IS A LARGE STORAGE CLOSET UPSTAIRS, ALSO. RECENT UPDATES INCLUDE HOT WATER HEATER, A/C &amp; HEAT, DISHWASHER, MICROWAVE. ALARM SYSTEM. STORAGE GALORE. WALK OUT THE BACK DOOR TO A BEAUTIFULLY LANDSCAPED BACKYARD WITH A GREAT DECK.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>200 MAN-O-WAR</house_street>
+    <house_city>Burleson</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76028</house_zip_code>
+    <house_price>$525,900</house_price>
+    <agent_first_name>Irona</agent_first_name>
+    <agent_last_name>Alexander</agent_last_name>
+    <agent_id>29</agent_id>
+            <firm_name>CENTURY 21 A-One Realty</firm_name>
+    <firm_street>780-D N.E. Alsbury</firm_street>
+    <firm_city>Burleson</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76028</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>5</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Burleson I S D</elementary_school>
+    <house_description>Pamper yourself when you purchase this brand-new builder&#8217;s home.  Located in an area of extremely nice homes, and designed for upscale lifestyle with numerous quality amenities and upgrades.  All the bells and whistles -  check out some of these luxurious features: two beautiful stairwells, three fireplaces, a computer alcove upstairs, owners&#8217; suite on main floor, GAME ROOM WITH WET BAR, wine cellar under the stairs, a walk-in pantry, balcony, and a really LARGE garage. The approximately 1.5 acres is heavily treed. If you�ll settle for nothing but THE BEST, this is the one for you!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>41 Shoreline Drive Laguna</house_street>
+    <house_city>Park</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76634</house_zip_code>
+    <house_price>$97,000</house_price>
+    <agent_first_name>Marchel</agent_first_name>
+    <agent_last_name>Eubank</agent_last_name>
+    <agent_id>30</agent_id>
+            <firm_name>CENTURY 21 Lakeland Realtors</firm_name>
+    <firm_street>1011 E. Jefferson</firm_street>
+    <firm_city>Whitney</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76692</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1364</building_area>
+    <lot_dimension1>100</lot_dimension1>
+    <lot_dimension2>275</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Clifton</elementary_school>
+    <house_description>Perfect lakeview/canyon view vacation home.  Two bedrooms, two baths, utility room, large living area overlooking canyon, two car carport, concrete drive, storage room, workshop, 400+/- square foot guest quarters off of main house over workshop, upper and lower decks, HOOT aerobic sewer system, dishwasher, spiral staircase and oversized lot.  Option for adjacent lot/lots.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1091 W Hwy 71</house_street>
+    <house_city>Bastrop</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$139,900</house_price>
+    <agent_first_name>Frank</agent_first_name>
+    <agent_last_name>Rainosek</agent_last_name>
+    <agent_id>31</agent_id>
+            <firm_name>Kay Wesson Real Estate</firm_name>
+    <firm_street>807 Main Street</firm_street>
+    <firm_city>Bastrop</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78602</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Bastrop ISD</elementary_school>
+    <house_description>Many wonderful commercial possibilities!  Hwy 71 frontage!  3+ Oak covered acres!  Nice 2/2/2 home that needs some repair.  Small stock pond. Livestock fenced!  Easy commute to Austin and Bastrop!  Call or e-mail  Frank for more details.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>10005 Silver Mountain Drive</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78737</house_zip_code>
+    <house_price>$335,400</house_price>
+    <agent_first_name>Donna</agent_first_name>
+    <agent_last_name>Rice</agent_last_name>
+    <agent_id>32</agent_id>
+            <firm_name>Peerman Custom Homes &amp; Real Estate</firm_name>
+    <firm_street>12020 Hwy. 290 West</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78737</firm_zip_code>
+    <garage>3</garage>
+    <building_area>3361</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>4</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aisd</elementary_school>
+    <house_description>Located in prestigious LEWIS MOUNTAIN RANCH. This new home is now under construction. 3361 sq. ft. of liveable room. The spacious master bedroom and bathroom is downstairs along with two more bedroom and full baths for each.  Wonder open kitchen with island and breakfast room. Study, computer room, formal living or another bedroom. The upstairs can remain unfinished or create your own floorplan. Select your own colors, tile, carpet, lighting fixtures, appliances and much more!!!</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>318 W. Henrietta</house_street>
+    <house_city>Kingsville</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78363</house_zip_code>
+    <house_price>$54,900</house_price>
+    <agent_first_name>Linda</agent_first_name>
+    <agent_last_name>Quandt</agent_last_name>
+    <agent_id>33</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Kingsville</firm_name>
+    <firm_street>2701 S. US Hwy 77</firm_street>
+    <firm_city>Kingsville</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78363</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1922</building_area>
+    <lot_dimension1>75</lot_dimension1>
+    <lot_dimension2>140</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Kingsville</elementary_school>
+    <house_description>Split bedroom arrangement.  Cedar closet in front bedroom.  Large home w/spacious formal living/dining area plus den and eating area.  Building in backyard provides extra storage or workshop.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>5103 co rd 79</house_street>
+    <house_city>Robstown</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78380</house_zip_code>
+    <house_price>$149,600</house_price>
+    <agent_first_name>Antonio</agent_first_name>
+    <agent_last_name>Alvarez</agent_last_name>
+    <agent_id>34</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1700</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Calallen</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>4613 Molera Drive</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78749</house_zip_code>
+    <house_price>$98,000</house_price>
+    <agent_first_name>Dolly</agent_first_name>
+    <agent_last_name>McLaughlin</agent_last_name>
+    <agent_id>35</agent_id>
+            <firm_name>CENTURY 21 Cook and Associates</firm_name>
+    <firm_street>4501 Spicewood Springs Road #1040</firm_street>
+    <firm_city>nowhere</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>00000</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1416</building_area>
+    <lot_dimension1>56</lot_dimension1>
+    <lot_dimension2>110</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aisd - Boone Covington, Crockett</elementary_school>
+    <house_description>RECENT TILE IN LIVING AND DINING. RECENT INTERIOR AND EXTERIOR PAINT. VAULTED CEILINGS. NEW GARAGE DOOR. LARGE MASTER WITH SITTING AREA. MARBLE TUB WITH SEPTIC SHOWER. DOUBLE SINK. BAY WINDOW IN LIVING AREA. OPEN FLOOR PLAN. VERY CUTE HOME.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Oil,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>13636 SMITHS DR. Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78410</house_zip_code>
+    <house_price>$140,000</house_price>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Eller</agent_last_name>
+    <agent_id>36</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2800</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Callallen</elementary_school>
+    <house_description>BIG POOL, PARK LIKE SETTING.BIG MESQUITES, LARGE CIRCULAR DRIVE WAY,   LOTS OF SALTILLO TILE, BUILT INS IN LIVING ROOM. MODERN UPDATES IN BIG COUNTRY KITCHEN...ISLAND BUTCHER BLOCK.   GREAT NEIGHBORHOOD IN CALALLEN SCHOOL DISTRICT.BATH HOUSE AND WET BAR AT POOL.FENCED AND BEAUTIFUL, OWNER AGENT.</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1407 S. 2nd Street</house_street>
+    <house_city>Killeen</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76541</house_zip_code>
+    <house_price>$76,000</house_price>
+    <agent_first_name>MARIE</agent_first_name>
+    <agent_last_name>YOUNG</agent_last_name>
+    <agent_id>37</agent_id>
+            <firm_name>Flood Real Estate</firm_name>
+    <firm_street>701 W.Cen Tex Expwy</firm_street>
+    <firm_city>Killeen</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76541</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1749</building_area>
+    <lot_dimension1>90</lot_dimension1>
+    <lot_dimension2>140</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Killeen I.s.d.</elementary_school>
+    <house_description>3 Bedrooms, 2 Full Baths, 2 Car Garage, Breakfast Bar, Country Kitchen, FullMasonary Fireplace, Privacy fence. Early Move In Possible.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Wood</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1413 Berry Dr.</house_street>
+    <house_city>Cleburne</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76031</house_zip_code>
+    <house_price>$57,900</house_price>
+    <agent_first_name>Brenda</agent_first_name>
+    <agent_last_name>Webb</agent_last_name>
+    <agent_id>38</agent_id>
+            <firm_name>CENTURY 21 Rapp &amp; Associates Cleburne</firm_name>
+    <firm_street>103 Westmeadow</firm_street>
+    <firm_city>Cleburne</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76031</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>1</elementary_school>
+    <house_description>Cute house in SW area, vaulted ceiling in living room, wbfp, walk-in closets, landscaped fenced yard, nice large storage building.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Window Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>10033 El Dorado</house_street>
+    <house_city>Burleson</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76028</house_zip_code>
+    <house_price>$139,500</house_price>
+    <agent_first_name>Susan</agent_first_name>
+    <agent_last_name>Filina</agent_last_name>
+    <agent_id>39</agent_id>
+            <firm_name>CENTURY 21 A-One Realty</firm_name>
+    <firm_street>780-D N.E. Alsbury</firm_street>
+    <firm_city>Burleson</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76028</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1738</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Burleson I S D</elementary_school>
+    <house_description>Unique tri-level &quot;LOADED&quot; home on 2.5 acres of horse property.  Everything you need for country living: outbuildings, workshop, stable, well, slickwire cross-fenced, plus lots of extra parking for golf cart and RV.  House features 2 stairwells, solarium, views from owners suite on 3rd level, wood-burning &amp; gas log stone fireplace, loft, and so much more.  Best to see for yourself.  Co-listed with Dee Stalcup.  Call today!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>8012 CR 1009</house_street>
+    <house_city>Godley</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76044</house_zip_code>
+    <house_price>$75,000</house_price>
+    <agent_first_name>Robin</agent_first_name>
+    <agent_last_name>Taylor</agent_last_name>
+    <agent_id>40</agent_id>
+            <firm_name>CENTURY 21 A-One Realty</firm_name>
+    <firm_street>300 N. Broadway</firm_street>
+    <firm_city>Joshua</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76058</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Godley I S D</elementary_school>
+    <house_description>THIS IS A GREAT BUY!!  &quot;THIS IS A BRICKED MOBILE HOME&quot; WITH A LOT OF EXTRAS.  HOME IS WELL KEPT AND HAS A WONDERFUL KITCHEN AREA.  PLACED ON 5.89 ACRES WITH A  TWO CAR GARAGE, RV PARKING, HORSE BARN AND GODLEY SCHOOLS.  YOU MUST SEE TO BELIEVE!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>8105 Cheno Cortina Trail</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78749</house_zip_code>
+    <house_price>$162,990</house_price>
+    <agent_first_name>SUSAN</agent_first_name>
+    <agent_last_name>YOUNGBLOOD</agent_last_name>
+    <agent_id>41</agent_id>
+            <firm_name>Re/Max Heart of Texas</firm_name>
+    <firm_street>3921 STECK AVE, STE A 110</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78759</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2233</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Austin ISD</elementary_school>
+    <house_description>Be a player in the Austin hospitality scene. Lovely Legend Oaks home perfect for family gatherings and entertaining. Gorgeous backyard  has deck with arbor. Seasonal bulbs, TX wildflowers and xeriscape plan...yet, lush and inviting.  Well established herb garden. Big oaks. Texas style living! 4 beds/2.5 baths. All beds up.Large Master has sitting area overlooking peaceful backyard. Construction 5/94. You&#8217;ve got to see kitchen, breakfast area, family room!! Enjoy the natural beauty of the landscape in addition to the ease of family living with this great floorplan!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Electric,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>353 County Road 3368</house_street>
+    <house_city>Kempner</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76539</house_zip_code>
+    <house_price>$77,500</house_price>
+    <agent_first_name>Jennie</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_id>42</agent_id>
+            <firm_name>CENTURY 21 1st Choice</firm_name>
+    <firm_street>2702 E. HWY 190 Copperas</firm_street>
+    <firm_city>Cove</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76522</firm_zip_code>
+    <garage>3</garage>
+    <building_area>1270</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Lampasas Isd</elementary_school>
+    <house_description>Completion date of November 30, 1999.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>107 S. BASTROP</house_street>
+    <house_city>Paige</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$58,000</house_price>
+    <agent_first_name>Randy</agent_first_name>
+    <agent_last_name>McDonald</agent_last_name>
+    <agent_id>43</agent_id>
+            <firm_name>Jimmie Ann Vaughan Company</firm_name>
+    <firm_street>908 Main Street</firm_street>
+    <firm_city>Bastrop</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78602</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1208</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Bastrop Isd</elementary_school>
+    <house_description>3/1 HOUSE WITH CARPORT. lARGE PECAN TREES/MANY OLDER OUT BUILDINGS.  HOUSE CAN BE COMMERCIAL USE.  24+ ACRES BEHIND ALSO FOR SALE BY SAME OWNER AND AGENT.  UPSTAIRS IS FINISHED OFF WITH STAIRS SO ANOTHER 900+/- SQ. FT.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>5014 HEATHERGLEN</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77096</house_zip_code>
+    <house_price>$349,900</house_price>
+    <agent_first_name>MARVIN</agent_first_name>
+    <agent_last_name>GERBER</agent_last_name>
+    <agent_id>44</agent_id>
+            <firm_name>COLDWELL BANKER MADELINE OBRIEN, REALTORS</firm_name>
+    <firm_street>2121 Sage Rd., Suite 300</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77056</firm_zip_code>
+    <garage>2</garage>
+    <building_area>3318</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Houston ISD</elementary_school>
+    <house_description>BEAUTIFULLY REMODELED MEYERLAND SOFT CONTEMP WITH HUGE DINING ROOM AND AWESOME MASTER SUITE. 18 FT GRABUTE BYFFET UB DR. GREAT CLOSETS IN MBR, SUBZERO, TRASH COMPACTOR. LARGE POOL. FRONT CIRCULAR DRIVE. EXTRA ROOM OFF GARAGE WITH FULL BATH. HI-TECH SECURITY. EXCELLENT CONDITION.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Oil,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>9411 Thaxton Road Del</house_street>
+    <house_city>Valle</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78747</house_zip_code>
+    <house_price>$239,000</house_price>
+    <agent_first_name>Arrie</agent_first_name>
+    <agent_last_name>Montgomery</agent_last_name>
+    <agent_id>45</agent_id>
+            <firm_name>Coldwell Banker Mary Ann Green Realty</firm_name>
+    <firm_street>1620 Industry</firm_street>
+    <firm_city>Bastrop</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78602</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1880</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aisd</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>117 Cedar Crest Lane</house_street>
+    <house_city>Whitney</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76692</house_zip_code>
+    <house_price>$70,000</house_price>
+    <agent_first_name>Marchel</agent_first_name>
+    <agent_last_name>Eubank</agent_last_name>
+    <agent_id>46</agent_id>
+            <firm_name>CENTURY 21 Lakeland Realtors</firm_name>
+    <firm_street>1011 E. Jefferson</firm_street>
+    <firm_city>Whitney</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76692</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1146</building_area>
+    <lot_dimension1>90</lot_dimension1>
+    <lot_dimension2>110</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Whitney</elementary_school>
+    <house_description>Beautiful oaks shade this modern two bedroom, two bath frame home.  Wood burning stove, sprinkler system, berber carpet, 10X20 storage building, carport; all this across private road from Corp property which has access to Lake Whitney.  Neat &amp; clean!!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>710 Skyline Copperas</house_street>
+    <house_city>Cove</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76522</house_zip_code>
+    <house_price>$117,000</house_price>
+    <agent_first_name>Jennie</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_id>47</agent_id>
+            <firm_name>CENTURY 21 1st Choice</firm_name>
+    <firm_street>2702 E. HWY 190 Copperas</firm_street>
+    <firm_city>Cove</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76522</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1881</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Ccisd</elementary_school>
+    <house_description>Fall in love with this enticing 4 bedroom, 2 bath, 1 living area, 2 dining area home in Skyline Estates.  Complete with  a cozy fireplace, cathedral ceilings, walk-in closets and new carpet.  Large kitchen with new vinyl and plenty of cabinets.  Spacious utility room, 2 car garage surrounded by a privacy fence.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>5050 AMBASSADOR #220</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77056</house_zip_code>
+    <house_price>$76,500</house_price>
+    <agent_first_name>MAGGIE</agent_first_name>
+    <agent_last_name>MAYFIELD</agent_last_name>
+    <agent_id>48</agent_id>
+            <firm_name>COLDWELL BANKER MADELINE OBRIEN, REALTORS</firm_name>
+    <firm_street>2121 Sage Rd., Suite 300</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77056</firm_zip_code>
+    <garage>1</garage>
+    <building_area>948</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Houston ISD</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>105 Heritage Drive ( .91 acre) Johnson</house_street>
+    <house_city>City</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$69,500</house_price>
+    <agent_first_name>Paula</agent_first_name>
+    <agent_last_name>Housman</agent_last_name>
+    <agent_id>49</agent_id>
+            <firm_name>CENTURY 21 Town Creek Properties</firm_name>
+    <firm_street>200 W. Main Johnson</firm_street>
+    <firm_city>City</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78636</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Johnson City</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>16306 Essex Cove</house_street>
+    <house_city>Pflugerville</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78660</house_zip_code>
+    <house_price>$88,500</house_price>
+    <agent_first_name>Betty</agent_first_name>
+    <agent_last_name>Shavor</agent_last_name>
+    <agent_id>50</agent_id>
+            <firm_name>Regency, Realtors</firm_name>
+    <firm_street>110 N. IH-35, Ste 200A Round</firm_street>
+    <firm_city>Rock</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78681</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1170</building_area>
+    <lot_dimension1>55</lot_dimension1>
+    <lot_dimension2>132</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Pflugerville</elementary_school>
+    <house_description>Hardwood floors in living area and bedrooms.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>3203 Clumpgrass Cove</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78735</house_zip_code>
+    <house_price>$384,900</house_price>
+    <agent_first_name>Bob</agent_first_name>
+    <agent_last_name>Holzmueller</agent_last_name>
+    <agent_id>51</agent_id>
+            <firm_name>Re/Max Heart of Texas</firm_name>
+    <firm_street>3921 STECK AVE, STE A 110</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78759</firm_zip_code>
+    <garage>2</garage>
+    <building_area>4033</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Located in the prestigious Estates of Barton Creek, a gated community with large secluded lots.  This home is poised on a 1 acre cul-de-sac lot with lots of trees.  With over 4,000 square this home has plenty of room.  This home features: 3 living areas, 2 dining areas, 4 bedrooms, 3.5 baths, computer room, teen room, split staircase, lots of crown molding, marble floor foyer, and a great view from the top deck.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>3906 Fatta</house_street>
+    <house_city>Dickinson</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77539</house_zip_code>
+    <house_price>$118,000</house_price>
+    <agent_first_name>Ann</agent_first_name>
+    <agent_last_name>Bragg</agent_last_name>
+    <agent_id>52</agent_id>
+            <firm_name>BAYOU, REALTORS,INC.</firm_name>
+    <firm_street>1613 Pine Dr./ Hwy.517</firm_street>
+    <firm_city>Dickinson</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77539</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1939</building_area>
+    <lot_dimension1>77</lot_dimension1>
+    <lot_dimension2>110</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Dickinson I.s.d.</elementary_school>
+    <house_description>Executive type subdivion with easy access to I-45, NASA, Houston, Galveston, shopping, schools, churches.  You will love this home because of all the amenities.  Call us today for  your appointment.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Hot Water,Baseboard</heating>
+    <cooling>Window Unit,Atic Fan</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>725 Texas Ave. Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78404</house_zip_code>
+    <house_price>$51,500</house_price>
+    <agent_first_name>Terri</agent_first_name>
+    <agent_last_name>Eller</agent_last_name>
+    <agent_id>53</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>130</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Corpus Christi</elementary_school>
+    <house_description>Darling home on Southside of Corpus Chrsiti.  Remodeling done in 1997; painting inside and outside, Berber carpet, refinished hardwood floors, white painted kitchen cabinets and new windows installed.  New central heating and air conditioning system installed in 1997 also.Gas stove and gas dryer to remain with property.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>7717 Hill City Hwy. (Ad # 526)</house_street>
+    <house_city>Tolar</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76476</house_zip_code>
+    <house_price>$705,127</house_price>
+    <agent_first_name>Jeff</agent_first_name>
+    <agent_last_name>McSpadden</agent_last_name>
+    <agent_id>54</agent_id>
+            <firm_name>Century 21 Shirley Hooks, Inc.</firm_name>
+    <firm_street>201 E. Bridge</firm_street>
+    <firm_city>Granbury</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76048</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1257</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Tolar</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Carmel Dr.</house_street>
+    <house_city>Sandia</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78383</house_zip_code>
+    <house_price>$139,500</house_price>
+    <agent_first_name>Florence</agent_first_name>
+    <agent_last_name>Little</agent_last_name>
+    <agent_id>55</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2800</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>George West</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>8645 Ephraim Rd.</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78717</house_zip_code>
+    <house_price>$159,900</house_price>
+    <agent_first_name>The</agent_first_name>
+    <agent_last_name>Team</agent_last_name>
+    <agent_id>56</agent_id>
+            <firm_name>Realty World</firm_name>
+    <firm_street>2207 West Parmer Ln</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78727</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Round Rock</elementary_school>
+    <house_description>Master Suite Down! Ceramic Tile! Security System! Sprinkler System! Nice Back Yard with Deck, Big Trees! Close to Elemantary and Middle Schools!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1500 Block Wonder World Dr San</house_street>
+    <house_city>Marcos</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78666</house_zip_code>
+    <house_price>$4,192,650</house_price>
+    <agent_first_name>Mary</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_id>57</agent_id>
+            <firm_name>Coldwell Banker First National, REALTORS</firm_name>
+    <firm_street>1224 Hwy 123 San</firm_street>
+    <firm_city>Marcos</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78666</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>San Marcos Cisd</elementary_school>
+    <house_description>Great Piece of Property Not far from HospitalGood Location For Hotel Industrial or Strip Center</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Mesa Ridge Round</house_street>
+    <house_city>Rock</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78664</house_zip_code>
+    <house_price>$87,000</house_price>
+    <agent_first_name>Albert</agent_first_name>
+    <agent_last_name>Akano</agent_last_name>
+    <agent_id>58</agent_id>
+            <firm_name>CENTURY 21 Capital Team</firm_name>
+    <firm_street>1600 S. PLEASANT VALLEY RD</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78741</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1341</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Round Rock</elementary_school>
+    <house_description>Nice family Neighboorhood. Lots of upgrades in this well maintained home. Recent A/C, oven, dishwasher. Office/4th bed room. Six ceiling fans, pitch trees. Enjoy front and back porch.  A must see! Sell is motivated. Call Agent at # (512) 448-5951 for a private showing.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>4931 Heatherglen</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77096</house_zip_code>
+    <house_price>$249,000</house_price>
+    <agent_first_name>INA</agent_first_name>
+    <agent_last_name>PERLMAN</agent_last_name>
+    <agent_id>59</agent_id>
+            <firm_name>COLDWELL BANKER MADELINE OBRIEN, REALTORS</firm_name>
+    <firm_street>2121 Sage Rd., Suite 300</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77056</firm_zip_code>
+    <garage>1</garage>
+    <building_area>3240</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Hisd</elementary_school>
+    <house_description>Really nice family home! Spacious room sizes! Great entertaining space both inside and around the pool! Two master bedrooms! Two master bedrooms! One could be gameroom, home office, in-law suite. Hardwood floors, bookshelves, wood burning fireplace, gourmet kitchen, just painted! Walk to nearby Kolter elementary school! Well priced per square foot!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>11141 Forest Hill Lane Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78410</house_zip_code>
+    <house_price>$89,500</house_price>
+    <agent_first_name>Roberta</agent_first_name>
+    <agent_last_name>Roby</agent_last_name>
+    <agent_id>60</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1800</building_area>
+    <lot_dimension1>89</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Callallen</elementary_school>
+    <house_description>Oversized, tree-shaded lot with space for parking RV, boat, or trailer.  A/C androof 5 yrs old. Foundation report by Du-West Inspection clear 6/99.  Owner says1800 sf.  Home warranty for buyer.  Easy access to IH37.  School bus stops atfront door. Prime Calallen neighborhood. Rear wrap garage, fenced backyard,fresh interior paint. One huge walk-through living/dining area.Conv, FHA, VA, cash, Texas VetOwner says 1800 sf.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>218 South Fork Drive in East</house_street>
+    <house_city>Weatherford</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76087</house_zip_code>
+    <house_price>$209,921</house_price>
+    <agent_first_name>Debbie</agent_first_name>
+    <agent_last_name>Rogers</agent_last_name>
+    <agent_id>61</agent_id>
+            <firm_name>CENTURY 21 Jim Duncan, Inc.</firm_name>
+    <firm_street>1836 Santa Fe Drive</firm_street>
+    <firm_city>Weatherford</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76086</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2860</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Weatherford</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Wall Unit</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2207 Lamplight Dr.</house_street>
+    <house_city>Killeen</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76543</house_zip_code>
+    <house_price>$69,000</house_price>
+    <agent_first_name>SAM</agent_first_name>
+    <agent_last_name>ADAMS</agent_last_name>
+    <agent_id>62</agent_id>
+            <firm_name>Flood Real Estate</firm_name>
+    <firm_street>701 W.Cen Tex Expwy</firm_street>
+    <firm_city>Killeen</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76541</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1320</building_area>
+    <lot_dimension1>73</lot_dimension1>
+    <lot_dimension2>130</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Killeen High</elementary_school>
+    <house_description>3 bedrooms, 2 baths, 2 car garage, fenced yard, move in on credit approval.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1102 Castle Hill</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$149,900</house_price>
+    <agent_first_name>Farrar</agent_first_name>
+    <agent_last_name>Smith</agent_last_name>
+    <agent_id>63</agent_id>
+            <firm_name>Realty Executives</firm_name>
+    <firm_street>1650 Hwy. 6 suite 190 Sugar</firm_street>
+    <firm_city>Land</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77478</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2518</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Houston ISD</elementary_school>
+    <house_description>Leaded glass entry, terrazo, block paneled-oak flooring, huge bedrooms, choice of carpet, double ovens, Micro Tiled kitchen- breakfast area, large patio with hot tub, fenced. AC and paint in 1998. Will consider lease-purchase! Call for more info.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>264 S. Commercial Aransas</house_street>
+    <house_city>Pass</house_city>
+    <house_state>TX</house_state>
+    <house_zip_code>78336</house_zip_code>
+    <house_price>$0</house_price>
+    <agent_first_name>Danny</agent_first_name>
+    <agent_last_name>Dunn</agent_last_name>
+    <agent_id>64</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Northwest</firm_name>
+    <firm_street>4202 Calallen Drive Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78410</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>15273 Caravel Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78418</house_zip_code>
+    <house_price>$219,021</house_price>
+    <agent_first_name>Wendy</agent_first_name>
+    <agent_last_name>Blair</agent_last_name>
+    <agent_id>65</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2295</building_area>
+    <lot_dimension1>64</lot_dimension1>
+    <lot_dimension2>110</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Flour Bluff</elementary_school>
+    <house_description>Luxurious custom home. Open and airy. Situated on a wide canal. Large master bedroom downstairs. Tall ceilings with fans in every room. Boat pad, dog run, gas log fireplace + much more!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>108 S. Broadway</house_street>
+    <house_city>Joshua</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$250,000</house_price>
+    <agent_first_name>Ronnie</agent_first_name>
+    <agent_last_name>Robie</agent_last_name>
+    <agent_id>66</agent_id>
+            <firm_name>CENTURY 21 A-One Realty</firm_name>
+    <firm_street>300 N. Broadway</firm_street>
+    <firm_city>Joshua</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76058</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2400</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>1</elementary_school>
+    <house_description>HIGH TRAFFIC COUNT ON HWY 174, JOSHUA.  OVER.5 ACRE LOT.  HOME BUILT IN 1914. SO MANY POSSIBILITIES FOR A BUSINESS.  VICTORIAN WITH WRAP AROUND PORCH.  DETACHED  GARAGE WITH WORK AREA.  CENTRAL AC/HEAT.  STAIN GLASS DOES NOT  STAY.  ZONED F1 COMMERCIAL.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>7203 Shannon Drive</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78724</house_zip_code>
+    <house_price>$89,990</house_price>
+    <agent_first_name>Jay</agent_first_name>
+    <agent_last_name>Horton</agent_last_name>
+    <agent_id>67</agent_id>
+            <firm_name>Realty World</firm_name>
+    <firm_street>2207 West Parmer Ln</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78727</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1273</building_area>
+    <lot_dimension1>76</lot_dimension1>
+    <lot_dimension2>113</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aisd</elementary_school>
+    <house_description>Bedrooms Wired for Cable! Attractive Landscaping with Lights, Bermuda Grass &amp; Brick Edging!  4 Ceiling Fans! Security System!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1207 LEADER</house_street>
+    <house_city>Killeen</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76542</house_zip_code>
+    <house_price>$57,000</house_price>
+    <agent_first_name>Sandra</agent_first_name>
+    <agent_last_name>Buchanan</agent_last_name>
+    <agent_id>68</agent_id>
+            <firm_name>CENTURY 21 1st Choice</firm_name>
+    <firm_street>2702 E. HWY 190 Copperas</firm_street>
+    <firm_city>Cove</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76522</firm_zip_code>
+    <garage>1</garage>
+    <building_area>988</building_area>
+    <lot_dimension1>73</lot_dimension1>
+    <lot_dimension2>120</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>K.i.s.d</elementary_school>
+    <house_description>New carpet, new paint inside, ceiling fans all rooms, bathroom has new tub, countertops, new tile.   Kitchen has new tile, new countertops, cabinets repainted, new stainless steel sink.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Electric,Forced Air,Radiant</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>93 Deep Canyon</house_street>
+    <house_city>Whitney</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76692</house_zip_code>
+    <house_price>$49,900</house_price>
+    <agent_first_name>Lori</agent_first_name>
+    <agent_last_name>Tims</agent_last_name>
+    <agent_id>69</agent_id>
+            <firm_name>CENTURY 21 Lakeland Realtors</firm_name>
+    <firm_street>1011 E. Jefferson</firm_street>
+    <firm_city>Whitney</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76692</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Whitney</elementary_school>
+    <house_description>BEST DEAL AROUND!!!  This three bedroom, two bath frame home features open kitchen/dining and family room, woodburning fireplace, wooden deck, large utility room,  extra storage and much more...lot borders corp.  A must see!!!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Lot 4, Blk 4, Champions Ridge, 78232 San</house_street>
+    <house_city>Antonio</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78232</house_zip_code>
+    <house_price>$110,000</house_price>
+    <agent_first_name>Perry</agent_first_name>
+    <agent_last_name>Sharboneau</agent_last_name>
+    <agent_id>70</agent_id>
+            <firm_name>CENTURY 21 Westbank Realty</firm_name>
+    <firm_street>3355 Bee Caves Road, Suite 304</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78746</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Aisd</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>13211 KLAUS LN</house_street>
+    <house_city>Elgin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78621</house_zip_code>
+    <house_price>$399,900</house_price>
+    <agent_first_name>Sandy</agent_first_name>
+    <agent_last_name>Menley</agent_last_name>
+    <agent_id>71</agent_id>
+            <firm_name>Winkler &amp; Company</firm_name>
+    <firm_street>1111 Highway 290 East</firm_street>
+    <firm_city>Elgin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78721</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>4</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Elgin Isd</elementary_school>
+    <house_description>HUGE HOME WAY OVER CAD 3 STORIES, 2 LONG PORCHES.  UNBELIEVABLY LARGE ROOMS.  QUALITY CONSTRUCTION.  PRIVATE.  67.9 ACRES.  BIG TREES BEHIND HOUSE.  CATTLE BARN.  2 PONDS - 1 REALLY NICE ONE.  FENCED &amp; CROSS FENCED.  THIS IS A BUY.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2112 VOGEL</house_street>
+    <house_city>Rockdale</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76567</house_zip_code>
+    <house_price>$77,500</house_price>
+    <agent_first_name>Judith</agent_first_name>
+    <agent_last_name>Matula</agent_last_name>
+    <agent_id>72</agent_id>
+            <firm_name>Pud Owens Realty</firm_name>
+    <firm_street>910 1/2 West Cameron</firm_street>
+    <firm_city>Rockdale</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76567</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1622</building_area>
+    <lot_dimension1>80</lot_dimension1>
+    <lot_dimension2>140</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Rockdale</elementary_school>
+    <house_description>NICE FOUR BEDROOM HOME WITH PLENTY OF ROOM FOR YOU FAMILY.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>27 STALYNN LANE</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77027</house_zip_code>
+    <house_price>$450,000</house_price>
+    <agent_first_name>INA</agent_first_name>
+    <agent_last_name>PERLMAN</agent_last_name>
+    <agent_id>73</agent_id>
+            <firm_name>COLDWELL BANKER MADELINE OBRIEN, REALTORS</firm_name>
+    <firm_street>2121 Sage Rd., Suite 300</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77056</firm_zip_code>
+    <garage>1</garage>
+    <building_area>3351</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Houston ISD</elementary_school>
+    <house_description>MARCH COMPLETION IN NEW GATED COMMUNITY OF PARK AT POST OAK! PRIME LOCATION INSIDE LOOP CONVENIENT TO 610 ACCESS! GALLERIA AREA! GRACIOUS FORMAL LIVING ROOM/DINING ROOM! MASTER SUITE DOWN! ISLAND KITCHEN OPEN TO DEN AND BREAKFAST ROOM!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>325 Wright</house_street>
+    <house_city>Portland</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78374</house_zip_code>
+    <house_price>$155,900</house_price>
+    <agent_first_name>Michelle</agent_first_name>
+    <agent_last_name>Knight</agent_last_name>
+    <agent_id>74</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1796</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Gpisd</elementary_school>
+    <house_description>New home on large corner lot. Fenced, landscaped, and ready for immediate move in. Rear garage, huge master bath with jet tub. Formal living and dining, split bedrooms.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>705 AURORA ST</house_street>
+    <house_city>Bishop</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78343</house_zip_code>
+    <house_price>$89,900</house_price>
+    <agent_first_name>Linda</agent_first_name>
+    <agent_last_name>Quandt</agent_last_name>
+    <agent_id>75</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Kingsville</firm_name>
+    <firm_street>2701 S. US Hwy 77</firm_street>
+    <firm_city>Kingsville</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78363</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1527</building_area>
+    <lot_dimension1>75</lot_dimension1>
+    <lot_dimension2>136</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Bishop</elementary_school>
+    <house_description>New Constrction. CPL Good cents. Insulation: ceiling R30 Wall R14.5 Master bedroom has boxed ceiling walk-in closet double vanity in bathroom. Living Area has 10� ceilings. Dining room has boxed 9� ceiling.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>411 Anderson Copperas</house_street>
+    <house_city>Cove</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$86,000</house_price>
+    <agent_first_name>Kyle</agent_first_name>
+    <agent_last_name>Wheatley</agent_last_name>
+    <agent_id>76</agent_id>
+            <firm_name>CENTURY 21 Team Wheatley</firm_name>
+    <firm_street>2100 Trimmer Rd. Suite 104</firm_street>
+    <firm_city>Killeen</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76541</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2225</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>3/2.5/2 PLUS LOFT.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>County Road #226</house_street>
+    <house_city>Giddings</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78942</house_zip_code>
+    <house_price>$115,000</house_price>
+    <agent_first_name>Leon</agent_first_name>
+    <agent_last_name>Westfall</agent_last_name>
+    <agent_id>77</agent_id>
+            <firm_name>Westfall Real Estate</firm_name>
+    <firm_street>157 S. Manse</firm_street>
+    <firm_city>Giddings</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78942</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Spacious 3 bedroom 2 bath home on 3 plus acres in the Cummins Creek Country Club area.  This home includes a centrally located wood burning fireplace, a large living/dining room, separate formal dining area, large covered front and back porches and a detached garage perfect for workshop.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>FM 141</house_street>
+    <house_city>Giddings</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78942</house_zip_code>
+    <house_price>$114,500</house_price>
+    <agent_first_name>Leon</agent_first_name>
+    <agent_last_name>Westfall</agent_last_name>
+    <agent_id>78</agent_id>
+            <firm_name>Westfall Real Estate</firm_name>
+    <firm_street>157 S. Manse</firm_street>
+    <firm_city>Giddings</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78942</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2259</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Great 4 bedroom 2 and 1 half bath home on 7.4 tree covered acres just minutes from Giddings.  The majority of this his home has been remodeled and remaining portion awaits new owners personal touch.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2301 Moonstone Dr</house_street>
+    <house_city>Killeen</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76549</house_zip_code>
+    <house_price>$93,000</house_price>
+    <agent_first_name>Irona</agent_first_name>
+    <agent_last_name>Thompson</agent_last_name>
+    <agent_id>79</agent_id>
+            <firm_name>CENTURY 21 1st Choice</firm_name>
+    <firm_street>2702 E. HWY 190 Copperas</firm_street>
+    <firm_city>Cove</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76522</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1476</building_area>
+    <lot_dimension1>120</lot_dimension1>
+    <lot_dimension2>78</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Kisd</elementary_school>
+    <house_description>Beautiful 3 bedroom house.  On a corner lot, four sided brick, oversized garage and curb appeal.  Privacy fenced backyard with an extended covered patio and a housed jacuzzi.  Patio fenced to keep the family pet at a distance or keep it in its own chain link dog run.  Large master bedroom &amp; large bathroom with a separate extra large glass shower and a garden tub.  Bay windows in the large eat in kitchen and plenty of cabinets.  Tile back splash in the kitchen and bathrooms.  Tile foyer, security system, fireplace and many more amenties.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>333 Cheatham San</house_street>
+    <house_city>Marcos</house_city>
+    <house_state>TX</house_state>
+    <house_zip_code>78666</house_zip_code>
+    <house_price>$0</house_price>
+    <agent_first_name>Joyce</agent_first_name>
+    <agent_last_name>Baker</agent_last_name>
+    <agent_id>80</agent_id>
+            <firm_name>DUFFY &amp; LaROE-REALTORS NW</firm_name>
+    <firm_street>6263 FM 1960 W</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77069</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>14119 HAMBLETON</house_street>
+    <house_city>Houston</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>77069</house_zip_code>
+    <house_price>$399,000</house_price>
+    <agent_first_name>Jim</agent_first_name>
+    <agent_last_name>LaRoe</agent_last_name>
+    <agent_id>81</agent_id>
+            <firm_name>DUFFY &amp; LaROE-REALTORS NW</firm_name>
+    <firm_street>6263 FM 1960 W</firm_street>
+    <firm_city>Houston</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77069</firm_zip_code>
+    <garage>2</garage>
+    <building_area>5200</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>5</bath_rooms>
+    <bed_rooms>5</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Klein</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Old Red Ranch Road</house_street>
+    <house_city>Henly</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$144,900</house_price>
+    <agent_first_name>Donna</agent_first_name>
+    <agent_last_name>Rice</agent_last_name>
+    <agent_id>82</agent_id>
+            <firm_name>Peerman Custom Homes &amp; Real Estate</firm_name>
+    <firm_street>12020 Hwy. 290 West</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78737</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1750</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Johnson City</elementary_school>
+    <house_description>This 1750 sq. ft. new home is on 3.3 acres with huge oak trees.  20 x 20, 2 car garage, in Vista Grande Subdivision.  3 bedrooms, 2 baths, garden tub in master with separate shower, walk in closets, double vanities, private study.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>8 Cypress Fairway Village</house_street>
+    <house_city>Wimberley</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78676</house_zip_code>
+    <house_price>$72,000</house_price>
+    <agent_first_name>Marty</agent_first_name>
+    <agent_last_name>Flowers</agent_last_name>
+    <agent_id>83</agent_id>
+            <firm_name>Wimberley Land Company</firm_name>
+    <firm_street>P.O. Box 1</firm_street>
+    <firm_city>Wimberley</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78676</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>20</lot_dimension1>
+    <lot_dimension2>75</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Wimberley Isd</elementary_school>
+    <house_description>REMODELED 3bdrm/3bath townhome has new tile and carpeted floors. This spacious home has been completely repainted inside and exterior will be painted soon. Stone fireplace, built in book shelves, covered patio off living area. Master suite has large walk-in closet and deck with view. Grounds are maintained by the property owners association.</house_description>
+    <sewer>Yes</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>2503 Shoreline Ct. (Ad # 669)</house_street>
+    <house_city>Weatherford</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76087</house_zip_code>
+    <house_price>$49,921</house_price>
+    <agent_first_name>Lois</agent_first_name>
+    <agent_last_name>Madry</agent_last_name>
+    <agent_id>84</agent_id>
+            <firm_name>Century 21 Shirley Hooks, Inc.</firm_name>
+    <firm_street>201 E. Bridge</firm_street>
+    <firm_city>Granbury</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76048</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1072</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Weatherford</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1215 W. San Antonio St San</house_street>
+    <house_city>Marcos</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78666</house_zip_code>
+    <house_price>$139,000</house_price>
+    <agent_first_name>Brenda</agent_first_name>
+    <agent_last_name>Damron</agent_last_name>
+    <agent_id>85</agent_id>
+            <firm_name>Randall Morris &amp; Associates</firm_name>
+    <firm_street>333 Cheatham San</firm_street>
+    <firm_city>Marcos</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78666</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>San Marcos</elementary_school>
+    <house_description>Restored cottage in great location.  Great attentioin to detail.Wooden floors throughout.  Home is in excellent condition.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>34 Hillview</house_street>
+    <house_city>Llano</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78643</house_zip_code>
+    <house_price>$169,000</house_price>
+    <agent_first_name>Mark</agent_first_name>
+    <agent_last_name>Virdell</agent_last_name>
+    <agent_id>86</agent_id>
+            <firm_name>Lone Star Land Company</firm_name>
+    <firm_street>801 Bessemer St.</firm_street>
+    <firm_city>Llano</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78643</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2684</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>3</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Llano</elementary_school>
+    <house_description>Ranch style two story home with many energy efficient features.  This home has a large living room w/fireplace, a large country style kitchen with tile countertops, and a nice  rear deck. The home has a combination of rock and cedar exterior and a metal roof.   Hilltop location, two wells.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Oil,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>PO Box 7752 Horseshoe</house_street>
+    <house_city>Bay</house_city>
+    <house_state>TX</house_state>
+    <house_zip_code>78657</house_zip_code>
+    <house_price>$0</house_price>
+    <agent_first_name>Cyndi</agent_first_name>
+    <agent_last_name>DePalermo</agent_last_name>
+    <agent_id>87</agent_id>
+            <firm_name>BAYOU, REALTORS,INC.</firm_name>
+    <firm_street>1613 Pine Dr./ Hwy.517</firm_street>
+    <firm_city>Dickinson</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>77539</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Giddings</elementary_school>
+    <house_description>Great house!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Electric</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>4302 Acushnet Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78413</house_zip_code>
+    <house_price>$112,000</house_price>
+    <agent_first_name>Monique</agent_first_name>
+    <agent_last_name>Latimer</agent_last_name>
+    <agent_id>88</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2352</building_area>
+    <lot_dimension1>70</lot_dimension1>
+    <lot_dimension2>120</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Ccisd</elementary_school>
+    <house_description>Great square footage, freshly painted, and ready to move in!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Onion Crossing</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78744</house_zip_code>
+    <house_price>$59,000</house_price>
+    <agent_first_name>Hassan</agent_first_name>
+    <agent_last_name>Jaffar</agent_last_name>
+    <agent_id>89</agent_id>
+            <firm_name>CENTURY 21 Capital Team</firm_name>
+    <firm_street>1600 S. PLEASANT VALLEY RD</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78741</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1456</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Austin ISD</elementary_school>
+    <house_description>Fenced Backyard, large carport.Large bedroomms and kitchen.Nice shade trees.The Austin Residential market is very active and properties such as this one move quickly.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Heat Pump,Baseboard</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>830 Miller Circle</house_street>
+    <house_city>Meridian</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76665</house_zip_code>
+    <house_price>$94,900</house_price>
+    <agent_first_name>Marchel</agent_first_name>
+    <agent_last_name>Eubank</agent_last_name>
+    <agent_id>90</agent_id>
+            <firm_name>CENTURY 21 Lakeland Realtors</firm_name>
+    <firm_street>1011 E. Jefferson</firm_street>
+    <firm_city>Whitney</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76692</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1413</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Meridian</elementary_school>
+    <house_description>Modern three bedroom, two bath Brick home located in new subdivision in Meridian.  Features include wood burning fire place, gas range, built-in hutch, walk-in closets.  Two car attached garage, porch, patio and lovely landscaped yard.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>429 E. KENEDY</house_street>
+    <house_city>Kingsville</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78363</house_zip_code>
+    <house_price>$99,000</house_price>
+    <agent_first_name>Linda</agent_first_name>
+    <agent_last_name>Quandt</agent_last_name>
+    <agent_id>91</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Kingsville</firm_name>
+    <firm_street>2701 S. US Hwy 77</firm_street>
+    <firm_city>Kingsville</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78363</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2033</building_area>
+    <lot_dimension1>75</lot_dimension1>
+    <lot_dimension2>140</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Kingsville</elementary_school>
+    <house_description>Step back in time--this home has charm.  Woodburning fireplace, marble whirlpool tub in one of two baths, stained glass window, high ceilings, central air/heat, landscaped yard, track lighting, gourmet kitchen.  Lovely income producing garage apartment.  Storage and studio at rear of double garage.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>6610 BRADLEY DR.</house_street>
+    <house_city>Austin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78723</house_zip_code>
+    <house_price>$99,800</house_price>
+    <agent_first_name>Gail</agent_first_name>
+    <agent_last_name>Schiavone</agent_last_name>
+    <agent_id>92</agent_id>
+            <firm_name>Jimmie Ann Vaughan Company</firm_name>
+    <firm_street>908 Main Street</firm_street>
+    <firm_city>Bastrop</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78602</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2065</building_area>
+    <lot_dimension1>102</lot_dimension1>
+    <lot_dimension2>270</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>4</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Austin, Andrews, Pearce, Lbj</elementary_school>
+    <house_description>BEAUTIFUL NEIGHBORHOOD.  VIEW THRU FRENCH DOORS OUT TO PATIO DECK WITH LARGE TREE AND PATH LEADING DOWN TO CREEK.  MASTER BEDROOM HAS SUPER PRIVACY.  LARGE OPEN FLOORPLAN.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>318 W. Hackberry</house_street>
+    <house_city>Mathis</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78368</house_zip_code>
+    <house_price>$26,000</house_price>
+    <agent_first_name>Michelle</agent_first_name>
+    <agent_last_name>Knight</agent_last_name>
+    <agent_id>93</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>1</garage>
+    <building_area>790</building_area>
+    <lot_dimension1>140</lot_dimension1>
+    <lot_dimension2>50</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Mathis</elementary_school>
+    <house_description>Could be 3 bedroom, needs leveling and TLC. Large kitchen and large fenced yard. Would be great investment property!</house_description>
+    <sewer>No</sewer>
+    <water>Yes</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>662 Sagewood Parkway</house_street>
+    <house_city>Seguin</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78155</house_zip_code>
+    <house_price>$149,000</house_price>
+    <agent_first_name>Jessica</agent_first_name>
+    <agent_last_name>Shaw</agent_last_name>
+    <agent_id>94</agent_id>
+            <firm_name>Randall Morris &amp; Associates</firm_name>
+    <firm_street>333 Cheatham San</firm_street>
+    <firm_city>Marcos</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78666</firm_zip_code>
+    <garage>2</garage>
+    <building_area>2070</building_area>
+    <lot_dimension1>50</lot_dimension1>
+    <lot_dimension2>100</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Seguin Isd</elementary_school>
+    <house_description>Over 2000 square feet of unusual quality in this three bedroom, two bath executive garden home.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Electric,Forced Air,Heat Pump</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Co Rd 2208 E</house_street>
+    <house_city>Ricardo</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code></house_zip_code>
+    <house_price>$26,000</house_price>
+    <agent_first_name>Emma</agent_first_name>
+    <agent_last_name>Morin</agent_last_name>
+    <agent_id>95</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate</firm_name>
+    <firm_street>2701 S. US Hwy 77</firm_street>
+    <firm_city>Kingsville</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78363</firm_zip_code>
+    <garage>1</garage>
+    <building_area>2263</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>1</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Ricardo</elementary_school>
+    <house_description>Little house on a fenced in acre. As per owner: Built in 1984 and a year later, back bedroom, full bath and back porch was added on.Directions: hwy 77 s to Ricardo, Turn Left on 772 east turn right on Co. Rd. 1065 S and right on Co Rd 2208 E. Property on right side of road.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>16502 Jadestone Dr. Cedar</house_street>
+    <house_city>Park</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78613</house_zip_code>
+    <house_price>$106,500</house_price>
+    <agent_first_name>Janice</agent_first_name>
+    <agent_last_name>Campbell</agent_last_name>
+    <agent_id>96</agent_id>
+            <firm_name>Realty World</firm_name>
+    <firm_street>2207 West Parmer Ln</firm_street>
+    <firm_city>Austin</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78727</firm_zip_code>
+    <garage>2</garage>
+    <building_area>1588</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Leander</elementary_school>
+    <house_description>Great Entry! Wood Floors! Large Master Suite Upstairs! Corner Fireplace! Huge Backyard! Ceiling Fans! Kids can walk to School! Beautiful Parks &amp; Pools!</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>413 Avila Lane (Briggs)</house_street>
+    <house_city>Killeen</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76542</house_zip_code>
+    <house_price>$80,000</house_price>
+    <agent_first_name>Carol</agent_first_name>
+    <agent_last_name>Dolecki</agent_last_name>
+    <agent_id>97</agent_id>
+            <firm_name>CENTURY 21 1st Choice</firm_name>
+    <firm_street>2702 E. HWY 190 Copperas</firm_street>
+    <firm_city>Cove</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76522</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1475</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Burnet</elementary_school>
+    <house_description>Land is owner financed separate from modular home.  Homeowner association $10.00/ year.  Spotless and just like new.  Garden top on front porch.  Must see to appreciate!</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>4318 Cottage Corpus</house_street>
+    <house_city>Christi</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78415</house_zip_code>
+    <house_price>$46,000</house_price>
+    <agent_first_name>Debbie</agent_first_name>
+    <agent_last_name>Jackson</agent_last_name>
+    <agent_id>98</agent_id>
+            <firm_name>CENTURY 21 Myers Real Estate Co., Inc. Southside</firm_name>
+    <firm_street>6262 Weber Rd., Suite 201 Corpus</firm_street>
+    <firm_city>Christi</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78413</firm_zip_code>
+    <garage>1</garage>
+    <building_area>842</building_area>
+    <lot_dimension1>55</lot_dimension1>
+    <lot_dimension2>117</lot_dimension2>
+    <bath_rooms>1</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Corpus Christi</elementary_school>
+    <house_description>Great Starter Home!  New Carpet, Vinyl, Paint &amp; Doors.  Convenient location.</house_description>
+    <sewer>Yes</sewer>
+    <water>Yes</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>1157 CR 607</house_street>
+    <house_city>Alvarado</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>76009</house_zip_code>
+    <house_price>$59,000</house_price>
+    <agent_first_name>Mike</agent_first_name>
+    <agent_last_name>Evans</agent_last_name>
+    <agent_id>99</agent_id>
+            <firm_name>CENTURY 21 A-One Realty</firm_name>
+    <firm_street>300 N. Broadway</firm_street>
+    <firm_city>Joshua</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>76058</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1216</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>3</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Alvarado I S D</elementary_school>
+    <house_description>Ready for immediate occupancy!  Built in hutch and entertainment center.  Selling &quot;as is&quot; home in good condition but is missing the following: refrigetator, range, dish washer, aerobic pump.  Owner may finance.  Must qualify</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>No</electricity>
+    <heating>Gas</heating>
+    <cooling>None</cooling>
+    <type>Residential</type>
+</tuple>
+
+<tuple>
+    <house_street>Tenney Road (CR 141)</house_street>
+    <house_city>Luling</house_city>
+    <house_state>TEXAS</house_state>
+    <house_zip_code>78648</house_zip_code>
+    <house_price>$119,000</house_price>
+    <agent_first_name>Floyd</agent_first_name>
+    <agent_last_name>Jr.</agent_last_name>
+    <agent_id>100</agent_id>
+            <firm_name>COUNTYWIDE REALTY</firm_name>
+    <firm_street>300 S. Colorado St.</firm_street>
+    <firm_city>Lockhart</firm_city>
+    <firm_state>TX</firm_state>
+    <firm_zip_code>78644</firm_zip_code>
+    <garage>1</garage>
+    <building_area>1204</building_area>
+    <lot_dimension1>60</lot_dimension1>
+    <lot_dimension2>115</lot_dimension2>
+    <bath_rooms>2</bath_rooms>
+    <bed_rooms>2</bed_rooms>
+    <dining_rooms>1</dining_rooms>
+    <living_rooms>1</living_rooms>
+    <elementary_school>Luling</elementary_school>
+    <house_description>Escape to this cozy two bedroom, two bath frame home in the country.  Includes a nice size living/dinng area, spacious master bedroom, appliances, CH/CA, all electric and much more.  A great wrap around porch gives a good view of the ten acres.  Directions:  From U. S. 183 take FM20 east toward Bastrop and turn right onto FM 1322.  Go 10.7 miles to CR 144 and turn left. Go to the T and take the right fork to CR 142.  Make a left hand turn on CR 142.  Go end of the road and the property is in front of you.</house_description>
+    <sewer>No</sewer>
+    <water>No</water>
+    <electricity>Yes</electricity>
+    <heating>Gas,Forced Air</heating>
+    <cooling>Central Air</cooling>
+    <type>Residential</type>
+</tuple>
+</root>
